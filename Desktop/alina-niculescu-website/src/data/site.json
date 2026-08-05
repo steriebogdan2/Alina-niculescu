@@ -1,0 +1,600 @@
+{
+  "person": {
+    "fullName": "Alexandra-Alina Niculescu",
+    "firstName": "Alexandra",
+    "secondName": "Alina",
+    "surname": "Niculescu",
+    "roles": [
+      "Balerină",
+      "Scriitoare",
+      "Absolventă de Drept"
+    ],
+    "currentTitle": "Miss Peace Europe 2026",
+    "hometown": "Constanța",
+    "basedIn": "București",
+    "email": "contact@missalinaniculescu.tv",
+    "siteUrl": "https://missalinaniculescu.tv"
+  },
+  "nav": [
+    {
+      "label": "Acasă",
+      "path": "/"
+    },
+    {
+      "label": "Despre",
+      "path": "/despre"
+    },
+    {
+      "label": "Palmares",
+      "path": "/palmares"
+    },
+    {
+      "label": "Video",
+      "path": "/video"
+    },
+    {
+      "label": "Presă",
+      "path": "/presa"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "hero": {
+    "folioLeft": "Nr. 01 · Ediția 2026",
+    "folioRight": "Constanța · București · Europa",
+    "sash": "Miss Peace Europe · MMXXVI",
+    "portraitSlot": "Portret de copertă",
+    "portrait": {
+      "src": "/images/portret-md.jpg",
+      "srcSet": "/images/portret-sm.webp 560w, /images/portret-md.webp 900w, /images/portret-lg.webp 1179w",
+      "alt": "Alexandra-Alina Niculescu, încoronată",
+      "position": "50% 18%"
+    },
+    "coverlines": [
+      {
+        "key": "Balerină",
+        "value": "de la primele repetiții"
+      },
+      {
+        "key": "Scriitoare",
+        "value": "„Angela, povestea unei balerine”"
+      },
+      {
+        "key": "Jurist",
+        "value": "Universitatea din București"
+      },
+      {
+        "key": "15 titluri",
+        "value": "2021 › 2026"
+      }
+    ],
+    "lede": "Reprezint România și Republica Moldova în competiții internaționale. Folosesc scena pentru diplomație culturală și pentru cauzele păcii.",
+    "primaryCta": {
+      "label": "Palmares",
+      "path": "/palmares"
+    },
+    "secondaryCta": {
+      "label": "Colaborări",
+      "path": "/contact"
+    }
+  },
+  "pressBand": [
+    "Click",
+    "PeruMira",
+    "Ulusal Haber TV",
+    "Olay Magazin",
+    "Antena Stars",
+    "Famost",
+    "Oficiul de Știri",
+    "PH Online"
+  ],
+  "about": {
+    "eyebrow": "Două nume, o singură persoană",
+    "headingA": "Alexandra construiește.",
+    "headingB": "Alina emoționează.",
+    "intro": [
+      "Am crescut la Constanța, un oraș cosmopolit scăldat în soare, la malul Mării Negre. Marea Neagră leagă România, Bulgaria, Turcia, Georgia, Ucraina și Rusia. A fost prima mea lecție despre cum culturi diferite pot sta una lângă alta.",
+      "Vin dintr-o familie ancorată în valorile răsăritene. Mama, cercetător academic și profesor universitar, și tatăl, inginer în portul Constanța, m-au învățat despre altruism, curaj și credință. Astăzi locuiesc în București.",
+      "Am înțeles devreme că educația este temelia oricărui succes durabil. Sunt licențiată în Drept la Universitatea din București și urmez cursurile Facultății de Litere."
+    ],
+    "path": [
+      "Baletul mi-a insuflat grația și răbdarea. Televiziunea mi-a dat curajul de a transmite emoție și mesaj. Literatura este spațiul meu de introspecție și creație.",
+      "Profesional, privesc dincolo de lumina reflectoarelor. Pasul meu natural este către diplomație culturală și aprofundarea studiilor de drept internațional.",
+      "Vreau să folosesc platforma pe care o am pentru a construi punți între culturi și pentru a apăra drepturile celor fără voce, alături de organizații precum Miss Peace International."
+    ],
+    "quote": {
+      "text": "Dincolo de chipul de păpușă de porțelan, sunt o femeie care se roagă, care muncește și care învață încontinuu. Cea mai mare provocare este să rămân curată în interior. Adevărata coroană este cea a demnității.",
+      "source": "Interviu pentru Click"
+    },
+    "duality": [
+      {
+        "name": "Alexandra",
+        "voice": "strong",
+        "text": "Latura fermă. Studiile de drept, disciplina scenei, munca din spatele fiecărei coroane, angajamentul față de cauzele sociale."
+      },
+      {
+        "name": "Alina",
+        "voice": "soft",
+        "text": "Latura diafană. Baletul, poezia, blândețea din priviri, partea care emoționează înainte să spună un cuvânt."
+      }
+    ],
+    "beyond": [
+      {
+        "name": "Scriitoare",
+        "voice": "strong",
+        "text": "Autoare a volumului „Angela, povestea unei balerine”, în care aduce în pagină fragmente din propria viață. Urmează un volum de poezie."
+      },
+      {
+        "name": "Activistă",
+        "voice": "soft",
+        "text": "Susține campaniile împotriva consumului de droguri și cauzele păcii, alături de Miss Peace International."
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "year": "2026",
+      "title": "Best Speeches about Peace",
+      "org": "Miss Peace International, plus Best Impression",
+      "rank": "Top 6"
+    },
+    {
+      "year": "2026",
+      "title": "Miss Peace Europe",
+      "org": "Miss Peace International, plus Miss Best National Costume",
+      "rank": "European"
+    },
+    {
+      "year": "2026",
+      "title": "Miss Peace România",
+      "org": "Miss Peace International, jurii internaționali",
+      "rank": "Locul I"
+    },
+    {
+      "year": "2026",
+      "title": "Queen of Peace România",
+      "org": "Gala caritabilă a asociației Terapii Miraculoase",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Glamour Best Faces Moldova",
+      "org": "Marea finală de la Argish Partez, premiu oferit de Germania",
+      "rank": "Internațional"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Glamour Faces Top Model",
+      "org": "Marea finală de la Argish Partez, premiu oferit de Germania",
+      "rank": "Internațional"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Regina d’Europa Fotogenia",
+      "org": "Premiu oferit de oficialii italieni în România",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2024",
+      "title": "Miss Universe România",
+      "org": "Marea finală",
+      "rank": "Finalistă"
+    },
+    {
+      "year": "2024",
+      "title": "Miss Supreme Universe Beauty",
+      "org": "Miss Divine Constellation of the Universe",
+      "rank": "Locul II"
+    },
+    {
+      "year": "2024",
+      "title": "Diamantul Modei din Europa de Est",
+      "org": "Premiu oferit de organizatori italieni",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Best Face România",
+      "org": "Piața Constituției, cu susținerea Jandarmeriei Române",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Regina Oktoberfest București",
+      "org": "Piața Constituției, cu susținerea Jandarmeriei Române",
+      "rank": "Locul I"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Authentic România",
+      "org": "Academia de Artă Handmade București",
+      "rank": "Locul I"
+    },
+    {
+      "year": "2022",
+      "title": "Miss Oro Supremo di Fotogenia",
+      "org": "În cadrul concursului Bellezza in città",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2021",
+      "title": "Miss Telegenica",
+      "org": "În cadrul concursului Miss Plaja",
+      "rank": "Titlu"
+    }
+  ],
+  "videos": {
+    "tv": [
+      {
+        "id": "12_37_07",
+        "title": "Tânăra care a înnebunit presa din Turcia",
+        "note": "B1 TV · Bună dimineața, România",
+        "orientation": "landscape",
+        "duration": "0:32",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_37_07.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_37_07.jpg"
+      },
+      {
+        "id": "12_37_39",
+        "title": "Cum a ajuns Alina Miss Regina Europei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:14",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_37_39.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_37_39.jpg"
+      },
+      {
+        "id": "12_39_36",
+        "title": "Cum a ajuns Alina Miss Regina Europei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:38",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_39_36.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_39_36.jpg"
+      },
+      {
+        "id": "12_42_26",
+        "title": "Cele mai bune știri și imagini ale zilei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_42_26.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_42_26.jpg"
+      },
+      {
+        "id": "12_35_57",
+        "title": "Reportaj de la Catedrala Națională",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:45",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_35_57.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_35_57.jpg"
+      },
+      {
+        "id": "12_40_56",
+        "title": "„Nihan” a României a cucerit inimile turcilor",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:38",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_40_56.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_40_56.jpg"
+      },
+      {
+        "id": "12_43_35",
+        "title": "Sosia lui Nihan din „Dragoste infinită”",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:23",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_43_35.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_43_35.jpg"
+      },
+      {
+        "id": "12_38_02",
+        "title": "Prezentare în emisiune",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:08",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_38_02.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_38_02.jpg"
+      },
+      {
+        "id": "12_41_38",
+        "title": "Discuție în platou",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:15",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_41_38.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_41_38.jpg"
+      }
+    ],
+    "studio": [
+      {
+        "id": "12_28_04",
+        "title": "O Miss autentic(ă) a Bucureștiului",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_04.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_04.jpg"
+      },
+      {
+        "id": "12_28_22",
+        "title": "O Miss autentic(ă) a Bucureștiului",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:09",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_22.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_22.jpg"
+      },
+      {
+        "id": "12_28_57",
+        "title": "Cum arată viața de model",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:24",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_57.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_57.jpg"
+      },
+      {
+        "id": "12_29_28",
+        "title": "Celebru pentru o noapte",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:19",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_29_28.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_29_28.jpg"
+      },
+      {
+        "id": "12_29_54",
+        "title": "Celebru pentru o noapte",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:42",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_29_54.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_29_54.jpg"
+      },
+      {
+        "id": "12_30_28",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:16",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_30_28.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_30_28.jpg"
+      },
+      {
+        "id": "12_31_14",
+        "title": "Frumusețea femeilor este suficientă?",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:32",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_14.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_14.jpg"
+      },
+      {
+        "id": "12_31_18",
+        "title": "Reprezentanta Spaniei, în platou",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:36",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_18.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_18.jpg"
+      },
+      {
+        "id": "12_31_31",
+        "title": "Miss Universe, 130 de țări în competiție",
+        "note": "Reportaj",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_31.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_31.jpg"
+      },
+      {
+        "id": "12_32_40",
+        "title": "Alina, diamantul modei din Europa de Est",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:13",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_40.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_40.jpg"
+      },
+      {
+        "id": "12_32_41",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_41.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_41.jpg"
+      },
+      {
+        "id": "12_32_44",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:17",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_44.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_44.jpg"
+      },
+      {
+        "id": "12_32_45",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:06",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_45.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_45.jpg"
+      },
+      {
+        "id": "12_32_46",
+        "title": "Alina, diamantul modei din Europa de Est",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:07",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_46.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_46.jpg"
+      }
+    ],
+    "stage": [
+      {
+        "id": "12_32_38",
+        "title": "Pe scenă",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_38.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_38.jpg"
+      },
+      {
+        "id": "12_34_23",
+        "title": "Defilare în finală",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:22",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_23.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_23.jpg"
+      },
+      {
+        "id": "12_34_26",
+        "title": "Cu eșarfa României",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:12",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_26.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_26.jpg"
+      },
+      {
+        "id": "12_34_30",
+        "title": "Costum național",
+        "note": "Miss Peace International",
+        "orientation": "portrait",
+        "duration": "0:08",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_30.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_30.jpg"
+      },
+      {
+        "id": "12_34_58",
+        "title": "Pe scenă",
+        "note": "Gală",
+        "orientation": "portrait",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_58.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_58.jpg"
+      },
+      {
+        "id": "12_35_00",
+        "title": "Moment de gală",
+        "note": "Gală",
+        "orientation": "portrait",
+        "duration": "0:17",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_35_00.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_35_00.jpg"
+      },
+      {
+        "id": "12_39_04",
+        "title": "Backstage la filmare",
+        "note": "Culise",
+        "orientation": "portrait",
+        "duration": "0:09",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_39_04.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_39_04.jpg"
+      },
+      {
+        "id": "12_41_14",
+        "title": "În platou",
+        "note": "Emisiune TV",
+        "orientation": "portrait",
+        "duration": "0:13",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_41_14.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_41_14.jpg"
+      }
+    ]
+  },
+  "press": [
+    {
+      "outlet": "Click",
+      "headline": "Ea este „Nihan din Kara Sevda” de România",
+      "url": "https://click.ro/interviurile-click/ea-este-nihan-din-kara-sevda-de-romania-tanara-2482995.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu cu „Nihan de România”",
+      "url": "https://click.ro/interviurile-click/nihan-de-romania-bombardata-cu-atentii-scumpe-de-2513527.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu despre planurile de viitor",
+      "url": "https://click.ro/interviurile-click/nihan-de-romania-se-pregateste-sa-devina-mama-2503760.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu despre viața personală",
+      "url": "https://click.ro/interviurile-click/atentie-barbati-cum-o-puteti-cuceri-pe-nihan-de-2487174.html"
+    },
+    {
+      "outlet": "PeruMira",
+      "headline": "Regina d’Europa Fotogenia în ediția internațională",
+      "url": "https://perumira.org/alina-alexandra-the-porcelain-tv-doll-with-blue-eyes-crowned-as-regina-deuropa-fotogenia/"
+    },
+    {
+      "outlet": "Olay Magazin (TR)",
+      "headline": "Presa din Turcia despre „Miss Nihan” din România",
+      "url": "https://www.olaymagazin.com/sok-sok-sok-romanyali-miss-nihan-dunyayi-dize-getirdi/"
+    },
+    {
+      "outlet": "Famost",
+      "headline": "Queen of Peace România",
+      "url": "https://famost.ro/alina-alexandra-niculescu-queen-of-peace-romania-2025/"
+    },
+    {
+      "outlet": "Oficiul de Știri",
+      "headline": "Miss Peace România 2026: „adevărata strălucire vine din mâinile care ajută”",
+      "url": "https://oficiuldestiri.ro/ea-este-nihan-de-romania-alina-niculescu-miss-peace-romania-2026-adevarata-stralucire-nu-vine-din-diamante-ci-din-mainile-care-ajuta"
+    },
+    {
+      "outlet": "PH Online",
+      "headline": "Drumul până la Miss Peace 2026",
+      "url": "https://phonline.ro/ea-este-nihan-din-kara-sevda-de-romania-tanara-care-a-innebunit-presa-din-turcia-si-care-a-ajuns-miss-peace-2026-1761766503/"
+    },
+    {
+      "outlet": "YouTube",
+      "headline": "Material video de la o apariție TV",
+      "url": "https://www.youtube.com/watch?v=htV9KzPJQHk"
+    }
+  ],
+  "printClipping": {
+    "image": "/images/ulusal-haber-tv-2025.jpg",
+    "outlet": "Ulusal Haber TV",
+    "caption": "Ulusal Haber TV, anul 20, nr. 2, iunie-iulie 2025",
+    "text": "Ediția din iunie–iulie 2025 a publicației turce, cu un material amplu despre titlul Miss Authentic România și despre asemănarea cu actrița Neslihan Atagül."
+  },
+  "social": [
+    {
+      "label": "Instagram",
+      "url": "",
+      "handle": "de completat"
+    },
+    {
+      "label": "TikTok",
+      "url": "",
+      "handle": "de completat"
+    },
+    {
+      "label": "Facebook",
+      "url": "",
+      "handle": "de completat"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "",
+      "handle": "de completat"
+    },
+    {
+      "label": "YouTube",
+      "url": "",
+      "handle": "de completat"
+    }
+  ]
+}
