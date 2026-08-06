@@ -1,0 +1,55 @@
+/* ══════════════════════════════════════════════════════════════
+   Alexandra-Alina Niculescu, sistem vizual v2
+   Gramatică de copertă de revistă, în roz pudrat, lila și aur.
+   ══════════════════════════════════════════════════════════════ */
+
+:root{
+  /* alb cu tentă roz, nu crem, ca să evite registrul „hârtie veche” */
+  --paper:    #F7F0F3;
+  --paper-2:  #EFE1E8;
+  --blush:    #F0CBD9;
+  --lilac:    #C6B3DC;
+  --gold:     #B08A46;
+  --gold-2:   #8A6A2E;
+  --wine:     #6B2F52;
+  --ink:      #241A20;
+  --noir:     #171015;
+
+  --display: 'Fraunces', 'Lora', Georgia, serif;
+  --sans:    'Archivo', 'Poppins', system-ui, sans-serif;
+  --mono:    'Space Mono', 'DejaVu Sans Mono', monospace;
+
+  --gut:  clamp(20px, 5vw, 72px);
+  --page: 1440px;
+  --hair: 1px solid color-mix(in srgb, var(--gold) 30%, transparent);
+
+  --e-out: cubic-bezier(.16,1,.3,1);
+}
+
+*,*::before,*::after{ box-sizing:border-box; }
+
+html{ scroll-behavior:smooth; -webkit-text-size-adjust:100%; }
+
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--sans);
+  font-weight:300;
+  font-size:clamp(15px,1.05vw,16.5px);
+  line-height:1.72;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  overflow-x:hidden;
+}
+
+img,video,svg{ display:block; max-width:100%; }
+a{ color:inherit; }
+::selection{ background:var(--blush); color:var(--ink); }
+
+:focus-visible{ outline:2px solid var(--gold-2); outline-offset:4px; border-radius:2px; }
+
+.wrap{ width:100%; max-width:var(--page); margin-inline:auto; padding-inline:var(--gut); }
+.wrap-narrow{ max-width:1080px; }
+
+.sr{ position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }

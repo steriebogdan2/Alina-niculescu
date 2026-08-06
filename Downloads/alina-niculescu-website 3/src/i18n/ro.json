@@ -1,0 +1,19 @@
+{
+  "menu": "Meniu",
+  "closeMenu": "Închide meniul",
+  "skipToContent": "Sari la conținut",
+  "readMore": "Citește",
+  "allRights": "Toate drepturile rezervate.",
+  "privacy": "Politica de confidențialitate",
+  "backHome": "Înapoi la prima pagină",
+  "notFound": "Pagina căutată nu există.",
+  "send": "Trimite mesajul",
+  "sending": "Se trimite…",
+  "sent": "Mesajul a fost trimis. Mulțumesc!",
+  "sendError": "Mesajul nu a putut fi trimis. Scrie direct pe email.",
+  "notConfigured": "Formularul nu este încă legat la un serviciu de email.",
+  "lightboxOpen": "Deschide imaginea",
+  "lightboxClose": "Închide imaginea",
+  "lightboxPrev": "Imaginea anterioară",
+  "lightboxNext": "Imaginea următoare"
+}

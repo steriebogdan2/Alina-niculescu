@@ -1,0 +1,1595 @@
+{
+  "person": {
+    "fullName": "Alexandra-Alina Niculescu",
+    "firstName": "Alexandra",
+    "secondName": "Alina",
+    "surname": "Niculescu",
+    "roles": [
+      "Balerină",
+      "Scriitoare",
+      "Absolventă de Drept"
+    ],
+    "currentTitle": "Miss Peace Europe 2026",
+    "hometown": "Constanța",
+    "basedIn": "București",
+    "email": "alexandra.alinaniculescu@yahoo.com",
+    "siteUrl": "https://missalinaniculescu.tv"
+  },
+  "nav": [
+    {
+      "label": "Acasă",
+      "path": "/"
+    },
+    {
+      "label": "Despre",
+      "path": "/despre"
+    },
+    {
+      "label": "Palmares",
+      "path": "/palmares"
+    },
+    {
+      "label": "Video",
+      "path": "/video"
+    },
+    {
+      "label": "Galerie",
+      "path": "/galerie"
+    },
+    {
+      "label": "Presă",
+      "path": "/presa"
+    },
+    {
+      "label": "David & Nihan",
+      "path": "/david-si-nihan"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "hero": {
+    "folioLeft": "Nr. 01 · Ediția 2026",
+    "folioRight": "Constanța · București · Europa",
+    "sash": "Miss Peace Europe · MMXXVI",
+    "portraitSlot": "Portret de copertă",
+    "portrait": {
+      "src": "/images/portret-lg.jpg",
+      "srcSet": "/images/portret-sm.webp 560w, /images/portret-md.webp 900w, /images/portret-lg.webp 1179w",
+      "alt": "Alexandra-Alina Niculescu, încoronată",
+      "position": "50% 18%",
+      "jpgSet": "/images/portret-sm.jpg 560w, /images/portret-md.jpg 900w, /images/portret-lg.jpg 1179w"
+    },
+    "coverlines": [
+      {
+        "key": "Balerină",
+        "value": "de la primele repetiții"
+      },
+      {
+        "key": "Scriitoare",
+        "value": "„Angela, povestea unei balerine”"
+      },
+      {
+        "key": "Jurist",
+        "value": "Universitatea din București"
+      },
+      {
+        "key": "15 titluri",
+        "value": "2021 › 2026"
+      }
+    ],
+    "lede": "Reprezint România și Republica Moldova în competiții internaționale. Folosesc scena pentru diplomație culturală și pentru cauzele păcii.",
+    "primaryCta": {
+      "label": "Palmares",
+      "path": "/palmares"
+    },
+    "secondaryCta": {
+      "label": "Colaborări",
+      "path": "/contact"
+    }
+  },
+  "pressBand": [
+    "Click",
+    "PeruMira",
+    "Ulusal Haber TV",
+    "Olay Magazin",
+    "Antena Stars",
+    "Famost",
+    "Oficiul de Știri",
+    "PH Online"
+  ],
+  "about": {
+    "eyebrow": "Despre",
+    "titleLead": "Tânăra din România",
+    "titleAccent": "care a uimit Europa",
+    "subtitle": "De la baletul clasic la amfiteatrele legii și coroana Europei: Alexandra-Alina Niculescu este scriitoare și licențiată în drept, absolventă a Universității de Stat din București. A urmat cursurile a trei facultăți: Drept, Litere și Jurnalism, și vorbește mai multe limbi străine.",
+    "welcome": [
+      "Lumina reflectoarelor se aprinde pentru voi! Bine ați venit pe unicul site unde veți descoperi, pas cu pas, viața de revistă și secretele din spatele succesului Alinei Niculescu. Ne face o deosebită plăcere să le urăm bun venit noilor membri ai acestei comunități magnifice! Aici veți fi conectați secundă de secundă la cele mai proaspete noutăți din viața Alinei Niculescu!",
+      "Din Constanța pe marile scene ale lumii, o tânără simplă și ambițioasă din România a reușit să îi cucerească pe europeni printr-o simbioză perfectă între eleganță, un intelect sclipitor și o prezență plină de carismă. Alexandra-Alina Niculescu redefinește standardele succesului internațional, reprezentând cu o mândrie aristocratică atât România, cât și Republica Moldova în cele mai exclusiviste arene culturale și de frumusețe ale lumii, participând la competiții artistice de performanță unde a primit premii de la oficiali străini."
+    ],
+    "duality": [
+      {
+        "name": "Prezență",
+        "voice": "strong",
+        "text": "Posedând trăsături de o delicatețe angelică și o expresivitate captivantă, tânăra emană o aură rară, ce amintește instantaneu de marile dive ale cinematografiei internaționale, precum celebra Neslihan Atagül."
+      },
+      {
+        "name": "Pace",
+        "voice": "soft",
+        "text": "Discursul său despre pace din cadrul competiției Miss Peace International a atras pe loc atenția organizațiilor străine și a fost considerat printre cele mai bune din 43 de țări participante. Mulți lideri politici și formatori de opinie l-au încurajat."
+      }
+    ],
+    "pull": {
+      "text": "Aici a învățat secretul suprem: cum pot străluci culturi diferite, împreună, sub aceeași lumină reflectată.",
+      "source": "Despre · Constanța"
+    },
+    "beauty": {
+      "label": "Prezență",
+      "title": "O frumusețe cinematografică de rezonanță mondială",
+      "body": [
+        "Posedând trăsături de o delicatețe angelică și o expresivitate captivantă, tânăra emană o aură rară, ce amintește instantaneu de marile dive ale cinematografiei internaționale, precum celebra Neslihan Atagül.",
+        "Această prezență hipnotizantă a propulsat-o pe cele mai înalte podiumuri ale lumii, unde chipul său a fost recunoscut oficial printre cele mai frumoase din Europa și de pe mapamond de către aceiași organizatori care odinioară i-au oferit premii și lui Cindy Crawford. Consacrarea sa absolută în Peninsula Balcanică a transformat-o într-un adevărat etalon al esteticii moderne, fiind aclamată după triumful răsunător de la Argish-Partez, unde a reprezentat atât țara noastră, cât și țara vecină, Republica Moldova."
+      ],
+      "image": "balet-poanta"
+    },
+    "awards": {
+      "label": "Palmares",
+      "title": "Un palmares de aur în universul „Miss” internațional",
+      "intro": "Transpunând rigoarea și grația desăvârșită a baletului clasic în universul strălucitor al competițiilor de elită, ea a adunat în palmaresul său titluri internaționale:",
+      "items": [
+        {
+          "name": "Laureată de top",
+          "text": "Miss Telegenica 2021, o distincție profetică ce i-a deschis porțile televiziunii."
+        },
+        {
+          "name": "Triumf în Italia",
+          "text": "Oro Supremo di Fotogenia, în cadrul Miss Bellezza in Città 2022."
+        },
+        {
+          "name": "Excelență națională",
+          "text": "Locul 1 la Miss Authentic România 2023 și premiul special Miss Best Face 2023, oferit de Jandarmeria Română în Piața Constituției."
+        },
+        {
+          "name": "Coroanele păcii și ale eleganței",
+          "text": "Diamantul Modei din Europa de Est, Miss Peace România, Miss Peace Europe 2026, precum și titlul de Miss Best National Costume la nivel mondial."
+        },
+        {
+          "name": "Recunoaștere supremă",
+          "text": "Miss Supreme Universe Beauty 2024, finalistă Miss Universe România 2024 și premiul Miss Regina d’Europa Fotogenia, oferit direct de oficialii italieni în vizită la București."
+        }
+      ]
+    },
+    "academic": {
+      "label": "Educație",
+      "title": "O minte sclipitoare: fenomenul academic cu trei facultăți, olimpică la limba română",
+      "intro": "Dincolo de reflectoare, Alexandra-Alina Niculescu consideră că educația este temelia absolută a unui succes durabil. Ea își desăvârșește un parcurs universitar de excepție în cadrul Universității de Stat din București:",
+      "items": [
+        {
+          "kicker": "I",
+          "name": "Justiție",
+          "text": "Este licențiată și absolventă a Facultății de Drept, stăpânind cu precizie rigoarea legilor."
+        },
+        {
+          "kicker": "II",
+          "name": "Litere",
+          "text": "A absolvit cursurile Facultății de Litere, afirmându-se ca o scriitoare profundă și un spirit analitic."
+        },
+        {
+          "kicker": "III",
+          "name": "Jurnalism și televiziune",
+          "text": "Se află în faza finală a celei de-a treia facultăți, în cadrul Universității Politehnica, cucerind secretele mass-mediei și ale televiziunii pentru a-și amplifica mesajul la nivel global."
+        }
+      ],
+      "image": "esarfa-miss-peace-scara"
+    },
+    "ambassador": {
+      "label": "Misiune",
+      "title": "Ambasadoare a păcii și a diplomației culturale",
+      "body": [
+        "Provenind dintr-o familie de elite, cu o mamă profesor universitar și cercetător academic și un tată inginer în portul Constanța, ea a asimilat valori profunde precum altruismul și curajul. Astăzi, din București, tânăra își folosește notorietatea internațională ca pe o platformă diplomatică. Scopul său suprem transcende lumea modei, orientându-se cu pași mari spre dreptul internațional și diplomația culturală, fiind hotărâtă să construiască punți între națiuni și să apere cauzele sociale majore pe scena europeană.",
+        "Povestea sa a început în Constanța, un oraș cosmopolit al estului european, scăldat în soare și mângâiat de Marea Neagră. Acest spațiu geopolitic fascinant, unde valurile unesc culturile României, Bulgariei, Turciei, Georgiei, Ucrainei și Rusiei, a fost primul ei mare amfiteatru. Aici a învățat secretul suprem: cum pot străluci culturi diferite, împreună, sub aceeași lumină reflectată.",
+        "Discursul său despre pace din cadrul competiției Miss Peace International a atras pe loc atenția organizațiilor străine și a fost considerat printre cele mai bune din 43 de țări participante. Mulți lideri politici și formatori de opinie l-au încurajat."
+      ]
+    }
+  },
+  "story": {
+    "eyebrow": "Dosar",
+    "titleLead": "David & Nihan",
+    "titleAccent": "de România",
+    "subtitle": "O poveste care a emoționat și a stârnit interesul unei întregi comunități din România.",
+    "metaLine": "Poveste · Comunitate online · 2026",
+    "seo": {
+      "title": "David & Nihan de România · Alexandra-Alina Niculescu",
+      "description": "Povestea dintre David și Nihan de România, fenomenul care a captivat comunitatea online: podcastul RedFlag, valul de teorii de pe TikTok și misterul rămas nedezlegat.",
+      "ogImage": "/images/story/david-nihan-og.jpg"
+    },
+    "cover": {
+      "id": "colaj-david-nihan",
+      "src": "/images/story/david-nihan-1000.jpg",
+      "srcSet": "/images/story/david-nihan-640.jpg 640w, /images/story/david-nihan-1000.jpg 1000w, /images/story/david-nihan-1290.jpg 1290w",
+      "webpSet": "/images/story/david-nihan-640.webp 640w, /images/story/david-nihan-1000.webp 1000w, /images/story/david-nihan-1290.webp 1290w",
+      "alt": "Alina Niculescu și David, într-un colaj realizat de comunitatea online",
+      "caption": "Colaj realizat de comunitatea online, 2026",
+      "width": 1290,
+      "height": 1928,
+      "position": "50% 24%"
+    },
+    "paragraphs": [
+      "În inima unei lumi ce vibrează la intensitatea sentimentelor absolute, povestea dintre David și Nihan de România s-a născut asemenea unui fenomen care a captivat sute de mii de de tineri pe rețelele de socializare din România. Precum în serialul-fenomen Iubire Infinită, legătura lor a depășit granițele ecranelor TikTok, devenind o confesiune publică despre pasiune şi destine împletite.",
+      "Cu toate acestea, strălucirea dragostei lor nu a fost lipsită de umbre. Drumul lor a fost presărat de controverse intense și momente de adâncă apăsare, în care tăcerile au durut mai mult decât cuvintele.",
+      "După ce s-a întors din turneul dedicat celor mai frumoase chipuri din Europa şi lume, Alina Niculescu, zâna concursurilor de miss, a ales să se deschidă în cadrul celebrului podcast RedFlag, moderat de jurnalistul Florina Ilicea. În acel platou, sub privirile curioase ale publicului și fanilor din România, s-a dezbătut intens legătura misterioasă, plină de nuanțe și tensiune, dintre ea și David. Revelațiile au aprins definitiv platforma TikTok, declanșând un val de teorii, suspine și susținere din partea comunității.",
+      "Astăzi, dincolo de ecrane, controverse și lumina reflectoarelor, povestea lor rămâne o enigmă fascinantă,  un poem nescris pe care fanii îl caută, un secret romantic ce continuă să farmece și care ne face să ne întrebăm ce s-a întâmplat de fapt între David şi Nihana în cartierele din Pipera și Floreasca. Deși secțiunile de comentarii au explodat cu etichetări și teorii, Alina Niculescu a protejat identitatea bărbatului transformând totul într-un secret bine păstrat.",
+      "În prezent, totul rămâne învăluit într-un dens nor de mister, iar fanii așteaptă cu sufletul la gură un nou episod de podcast. Comunitatea online speră ca următoarea apariție publică să spulbere enigmele și să aducă mult doritele răspunsuri despre această intensă poveste care a cucerit TikTokul."
+    ],
+    "accents": [
+      "tăcerile au durut mai mult decât cuvintele",
+      "un poem nescris pe care fanii îl caută",
+      "a protejat identitatea bărbatului"
+    ],
+    "chapter2": {
+      "label": "Dincolo de podium",
+      "title": "Secretele unei inimi de neatins",
+      "paragraphs": [
+        "În culisele strălucitoare ale lumii de televiziune, viața personală a Alinei Niculescu bate oricând scenariul unui film de la Hollywood. Ultima dată când a fost rugată să spună o poveste a răspuns scurt că a scris o carte. Dincolo de lumina reflectoarelor care o transformă într-o adevărată zeiță pe podiumurile internaționale, Alina ascunde o poveste intensă, dominată de intrigi și cuceriri la cel mai înalt nivel. Ziarele din Turcia prin canalul turcesc cine5tvofficial vorbesc despre bărbați influenți care au căzut în genunchi în fața farmecului ei.",
+        "Se speculează că diplomați de rang înalt din Occident au rămas cu inimile topite după ce au ascultat-o dictând discursuri memorabile despre pace în cadrul galelor globale, fiind complet vrăjiți de grația ei. Mai mult, numele Alinei a fost șoptit adesea în cercurile exclusiviste ale oligarhilor din energie, magnați puternici obișnuiți să obțină totul, dar care s-au izbit de refuzuri ferme. Alina Niculescu are această putere rară: fascinează bărbații puternici și domină mințile celor care conduc lumi.",
+        "Cu toate acestea, în ciuda opulenței care o înconjoară și a milioanelor care i s-au pus la picioare, idealul ei absolut rămâne complet neatins de mirajul banilor. Pentru Alina, lucrurile materiale nu au nicio valoare în ecuația fericirii. Ceea ce își dorește cu adevărat, departe de opulența din Pipera sau Floreasca, este un băiat simplu. Un suflet curat care să o iubească pentru ceea ce este ea dincolo de titlurile de Miss, un partener capabil să îi ofere o dragoste sinceră, pură și absolută, un tată pentru copiii săi.",
+        "În plus, misterul din jurul acestei povești adâncește și mai mult speculațiile din lumea mondenă. Anumite surse din cercurile diplomatice susțin că acei influenți bărbați de stat din Vest nu au renunțat cu ușurință la gândul de a înțelege cine este de fapt David. Anumite zvonuri ne fac să ne întrebăm dacă acești diplomați de rang înalt au început să îl caute pe David prin rețelele lor de contacte din capitală, încercând să afle detalii prețioase despre misteriosul tânăr . Cu toate acestea aceștia aleg să rămână complet în umbră, acționând cu o discreție absolută cu atât mai mult cu cât și David este un personaj cunoscut în mediul online."
+      ],
+      "accents": [
+        "lucrurile materiale nu au nicio valoare în ecuația fericirii"
+      ]
+    },
+    "video": {
+      "label": "Video",
+      "title": "Povestea, în imagini",
+      "youtubeId": "htV9KzPJQHk",
+      "caption": "Materialul video care însoțește povestea"
+    },
+    "gallery": [
+      {
+        "id": "colaj-david-nihan",
+        "src": "/images/story/david-nihan-1000.jpg",
+        "srcSet": "/images/story/david-nihan-640.jpg 640w, /images/story/david-nihan-1000.jpg 1000w, /images/story/david-nihan-1290.jpg 1290w",
+        "webpSet": "/images/story/david-nihan-640.webp 640w, /images/story/david-nihan-1000.webp 1000w, /images/story/david-nihan-1290.webp 1290w",
+        "alt": "Alina Niculescu și David, într-un colaj realizat de comunitatea online",
+        "caption": "Colaj realizat de comunitatea online, 2026",
+        "width": 1290,
+        "height": 1928,
+        "position": "50% 24%"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "year": "2026",
+      "title": "Best Speeches about Peace",
+      "org": "Miss Peace International, plus Best Impression",
+      "rank": "Top 6"
+    },
+    {
+      "year": "2026",
+      "title": "Miss Peace Europe",
+      "org": "Miss Peace International, plus Miss Best National Costume",
+      "rank": "European",
+      "image": "miss-peace-europe-2026",
+      "location": "Thailanda"
+    },
+    {
+      "year": "2026",
+      "title": "Miss Peace România",
+      "org": "Miss Peace International, jurii internaționali",
+      "rank": "Locul I",
+      "image": "miss-peace-romania-portret",
+      "location": "București"
+    },
+    {
+      "year": "2026",
+      "title": "Queen of Peace România",
+      "org": "Gala caritabilă a asociației Terapii Miraculoase",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Glamour Best Faces Moldova",
+      "org": "Marea finală de la Argish Partez, premiu oferit de Germania",
+      "rank": "Internațional",
+      "location": "Argish Partez",
+      "image": "glamour-best-faces-moldova"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Glamour Faces Top Model",
+      "org": "Marea finală de la Argish Partez, premiu oferit de Germania",
+      "rank": "Internațional",
+      "location": "Argish Partez",
+      "image": "glamour-faces-top-model"
+    },
+    {
+      "year": "2025",
+      "title": "Miss Regina d’Europa Fotogenia",
+      "org": "Premiu oferit de oficialii italieni în România",
+      "rank": "Titlu",
+      "image": "regina-deuropa-fotogenia"
+    },
+    {
+      "year": "2024",
+      "title": "Miss Universe România",
+      "org": "Marea finală",
+      "rank": "Finalistă",
+      "image": "esarfa-romania-expo"
+    },
+    {
+      "year": "2024",
+      "title": "Miss Supreme Universe Beauty",
+      "org": "Miss Divine Constellation of the Universe",
+      "rank": "Locul II",
+      "image": "incoronare-supreme-universe",
+      "location": "București"
+    },
+    {
+      "year": "2024",
+      "title": "Diamantul Modei din Europa de Est",
+      "org": "Premiu oferit de organizatori italieni",
+      "rank": "Titlu"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Best Face România",
+      "org": "Piața Constituției, cu susținerea Jandarmeriei Române",
+      "rank": "Titlu",
+      "location": "Piața Constituției, București",
+      "image": "oktoberfest-miss-best-face"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Regina Oktoberfest București",
+      "org": "Piața Constituției, cu susținerea Jandarmeriei Române",
+      "rank": "Locul I",
+      "location": "Piața Constituției, București",
+      "image": "portret-coroana-aurie"
+    },
+    {
+      "year": "2023",
+      "title": "Miss Authentic România",
+      "org": "Academia de Artă Handmade București",
+      "rank": "Locul I",
+      "image": "certificat-miss-authentic",
+      "location": "București",
+      "gallery": [
+        "certificat-miss-authentic",
+        "",
+        ""
+      ]
+    },
+    {
+      "year": "2022",
+      "title": "Miss Oro Supremo di Fotogenia",
+      "org": "În cadrul concursului Bellezza in città",
+      "rank": "Titlu",
+      "gallery": [
+        "oro-supremo-portret",
+        "",
+        ""
+      ],
+      "image": "oro-supremo-portret"
+    },
+    {
+      "year": "2021",
+      "title": "Miss Telegenica",
+      "org": "În cadrul concursului Miss Plaja",
+      "rank": "Titlu",
+      "gallery": [
+        "miss-telegenica-esarfa",
+        "",
+        ""
+      ],
+      "image": "miss-telegenica-esarfa"
+    }
+  ],
+  "videos": {
+    "tv": [
+      {
+        "id": "12_37_07",
+        "title": "Tânăra care a înnebunit presa din Turcia",
+        "note": "B1 TV · Bună dimineața, România",
+        "orientation": "landscape",
+        "duration": "0:32",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_37_07.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_37_07.jpg"
+      },
+      {
+        "id": "12_37_39",
+        "title": "Cum a ajuns Alina Miss Regina Europei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:14",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_37_39.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_37_39.jpg"
+      },
+      {
+        "id": "12_39_36",
+        "title": "Cum a ajuns Alina Miss Regina Europei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:38",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_39_36.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_39_36.jpg"
+      },
+      {
+        "id": "12_42_26",
+        "title": "Cele mai bune știri și imagini ale zilei",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_42_26.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_42_26.jpg"
+      },
+      {
+        "id": "12_35_57",
+        "title": "Reportaj de la Catedrala Națională",
+        "note": "România TV",
+        "orientation": "landscape",
+        "duration": "0:45",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_35_57.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_35_57.jpg"
+      },
+      {
+        "id": "12_40_56",
+        "title": "„Nihan” a României a cucerit inimile turcilor",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:38",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_40_56.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_40_56.jpg"
+      },
+      {
+        "id": "12_43_35",
+        "title": "Sosia lui Nihan din „Dragoste infinită”",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:23",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_43_35.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_43_35.jpg"
+      },
+      {
+        "id": "12_38_02",
+        "title": "Prezentare în emisiune",
+        "note": "Antena Stars",
+        "orientation": "landscape",
+        "duration": "0:08",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_38_02.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_38_02.jpg"
+      },
+      {
+        "id": "12_41_38",
+        "title": "Discuție în platou",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:15",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_41_38.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_41_38.jpg"
+      }
+    ],
+    "studio": [
+      {
+        "id": "12_28_04",
+        "title": "O Miss autentic(ă) a Bucureștiului",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_04.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_04.jpg"
+      },
+      {
+        "id": "12_28_22",
+        "title": "O Miss autentic(ă) a Bucureștiului",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:09",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_22.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_22.jpg"
+      },
+      {
+        "id": "12_28_57",
+        "title": "Cum arată viața de model",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:24",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_28_57.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_28_57.jpg"
+      },
+      {
+        "id": "12_29_28",
+        "title": "Celebru pentru o noapte",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:19",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_29_28.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_29_28.jpg"
+      },
+      {
+        "id": "12_29_54",
+        "title": "Celebru pentru o noapte",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:42",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_29_54.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_29_54.jpg"
+      },
+      {
+        "id": "12_30_28",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:16",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_30_28.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_30_28.jpg"
+      },
+      {
+        "id": "12_31_14",
+        "title": "Frumusețea femeilor este suficientă?",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:32",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_14.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_14.jpg"
+      },
+      {
+        "id": "12_31_18",
+        "title": "Reprezentanta Spaniei, în platou",
+        "note": "Emisiune TV",
+        "orientation": "landscape",
+        "duration": "0:36",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_18.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_18.jpg"
+      },
+      {
+        "id": "12_31_31",
+        "title": "Miss Universe, 130 de țări în competiție",
+        "note": "Reportaj",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_31_31.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_31_31.jpg"
+      },
+      {
+        "id": "12_32_40",
+        "title": "Alina, diamantul modei din Europa de Est",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:13",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_40.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_40.jpg"
+      },
+      {
+        "id": "12_32_41",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_41.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_41.jpg"
+      },
+      {
+        "id": "12_32_44",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:17",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_44.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_44.jpg"
+      },
+      {
+        "id": "12_32_45",
+        "title": "În platou",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:06",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_45.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_45.jpg"
+      },
+      {
+        "id": "12_32_46",
+        "title": "Alina, diamantul modei din Europa de Est",
+        "note": "Xtra Night Show",
+        "orientation": "landscape",
+        "duration": "0:07",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_46.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_46.jpg"
+      }
+    ],
+    "stage": [
+      {
+        "id": "12_32_38",
+        "title": "Pe scenă",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_32_38.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_32_38.jpg"
+      },
+      {
+        "id": "12_34_23",
+        "title": "Defilare în finală",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:22",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_23.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_23.jpg"
+      },
+      {
+        "id": "12_34_26",
+        "title": "Cu eșarfa României",
+        "note": "Finală",
+        "orientation": "portrait",
+        "duration": "0:12",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_26.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_26.jpg"
+      },
+      {
+        "id": "12_34_30",
+        "title": "Costum național",
+        "note": "Miss Peace International",
+        "orientation": "portrait",
+        "duration": "0:08",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_30.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_30.jpg"
+      },
+      {
+        "id": "12_34_58",
+        "title": "Pe scenă",
+        "note": "Gală",
+        "orientation": "portrait",
+        "duration": "0:10",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_34_58.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_34_58.jpg"
+      },
+      {
+        "id": "12_35_00",
+        "title": "Moment de gală",
+        "note": "Gală",
+        "orientation": "portrait",
+        "duration": "0:17",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_35_00.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_35_00.jpg"
+      },
+      {
+        "id": "12_39_04",
+        "title": "Backstage la filmare",
+        "note": "Culise",
+        "orientation": "portrait",
+        "duration": "0:09",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_39_04.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_39_04.jpg"
+      },
+      {
+        "id": "12_41_14",
+        "title": "În platou",
+        "note": "Emisiune TV",
+        "orientation": "portrait",
+        "duration": "0:13",
+        "src": "/videos/WhatsApp_Video_2026-08-03_at_12_41_14.mp4",
+        "poster": "/images/posters/WhatsApp_Video_2026-08-03_at_12_41_14.jpg"
+      }
+    ]
+  },
+  "press": [
+    {
+      "outlet": "Ziarul Pozitiv",
+      "headline": "Beatrice Lianda Dinu și Alina Niculescu: eleganță, diplomație și pace",
+      "url": "https://ziarulpozitiv.ro/beatrice-lianda-dinu-si-alina-niculescu-eleganta-diplomatie-si-pace/"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Ea este „Nihan din Kara Sevda” de România",
+      "url": "https://click.ro/interviurile-click/ea-este-nihan-din-kara-sevda-de-romania-tanara-2482995.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu cu „Nihan de România”",
+      "url": "https://click.ro/interviurile-click/nihan-de-romania-bombardata-cu-atentii-scumpe-de-2513527.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu despre planurile de viitor",
+      "url": "https://click.ro/interviurile-click/nihan-de-romania-se-pregateste-sa-devina-mama-2503760.html"
+    },
+    {
+      "outlet": "Click",
+      "headline": "Interviu despre viața personală",
+      "url": "https://click.ro/interviurile-click/atentie-barbati-cum-o-puteti-cuceri-pe-nihan-de-2487174.html"
+    },
+    {
+      "outlet": "PeruMira",
+      "headline": "Regina d’Europa Fotogenia în ediția internațională",
+      "url": "https://perumira.org/alina-alexandra-the-porcelain-tv-doll-with-blue-eyes-crowned-as-regina-deuropa-fotogenia/"
+    },
+    {
+      "outlet": "Olay Magazin (TR)",
+      "headline": "Presa din Turcia despre „Miss Nihan” din România",
+      "url": "https://www.olaymagazin.com/sok-sok-sok-romanyali-miss-nihan-dunyayi-dize-getirdi/"
+    },
+    {
+      "outlet": "Famost",
+      "headline": "Queen of Peace România",
+      "url": "https://famost.ro/alina-alexandra-niculescu-queen-of-peace-romania-2025/"
+    },
+    {
+      "outlet": "Oficiul de Știri",
+      "headline": "Miss Peace România 2026: „adevărata strălucire vine din mâinile care ajută”",
+      "url": "https://oficiuldestiri.ro/ea-este-nihan-de-romania-alina-niculescu-miss-peace-romania-2026-adevarata-stralucire-nu-vine-din-diamante-ci-din-mainile-care-ajuta"
+    },
+    {
+      "outlet": "PH Online",
+      "headline": "Drumul până la Miss Peace 2026",
+      "url": "https://phonline.ro/ea-este-nihan-din-kara-sevda-de-romania-tanara-care-a-innebunit-presa-din-turcia-si-care-a-ajuns-miss-peace-2026-1761766503/"
+    },
+    {
+      "outlet": "YouTube",
+      "headline": "Material video de la o apariție TV",
+      "url": "https://www.youtube.com/watch?v=htV9KzPJQHk"
+    }
+  ],
+  "printClipping": {
+    "image": "/images/ulusal-haber-tv-2025.jpg",
+    "outlet": "Ulusal Haber TV",
+    "caption": "Ulusal Haber TV, anul 20, nr. 2, iunie-iulie 2025",
+    "text": "Ediția din iunie–iulie 2025 a publicației turce, cu un material amplu despre titlul Miss Authentic România și despre asemănarea cu actrița Neslihan Atagül."
+  },
+  "social": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/missauthenticaromaniei/",
+      "handle": "@missauthenticaromaniei",
+      "icon": "instagram"
+    },
+    {
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@nihanderomania",
+      "handle": "@nihanderomania",
+      "icon": "tiktok"
+    },
+    {
+      "label": "TikTok · Top Model",
+      "url": "https://www.tiktok.com/@alinatopmodel",
+      "handle": "@alinatopmodel",
+      "icon": "tiktok"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/alexandra.niculescu.127",
+      "handle": "Alexandra Niculescu",
+      "icon": "facebook"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "",
+      "handle": "de completat"
+    },
+    {
+      "label": "YouTube",
+      "url": "",
+      "handle": "de completat"
+    }
+  ],
+  "gallery": {
+    "eyebrow": "Galerie",
+    "titleLead": "Cadre din",
+    "titleAccent": "ultimii cinci ani",
+    "lede": "Scenă, culise, platouri de televiziune și ședințe foto. Fiecare imagine poartă anul și contextul în care a fost făcută.",
+    "seo": {
+      "title": "Galerie · Alexandra-Alina Niculescu",
+      "description": "Galerie foto: concursuri internaționale, apariții TV, evenimente, culise și materiale editoriale cu Alexandra-Alina Niculescu, Miss Peace Europe 2026.",
+      "ogImage": "/images/gallery/costum-national-romania-800.jpg"
+    },
+    "categories": [
+      {
+        "id": "toate",
+        "label": "Toate"
+      },
+      {
+        "id": "concursuri",
+        "label": "Concursuri"
+      },
+      {
+        "id": "palmares",
+        "label": "Coroane și eșarfe"
+      },
+      {
+        "id": "evenimente",
+        "label": "Evenimente"
+      },
+      {
+        "id": "editorial",
+        "label": "Editorial și presă"
+      },
+      {
+        "id": "portrete",
+        "label": "Portrete"
+      },
+      {
+        "id": "backstage",
+        "label": "Culise"
+      },
+      {
+        "id": "tv",
+        "label": "Apariții TV"
+      },
+      {
+        "id": "david-nihan",
+        "label": "David & Nihan"
+      }
+    ],
+    "images": [
+      {
+        "id": "costum-national-romania",
+        "category": "concursuri",
+        "src": "/images/gallery/costum-national-romania-800.jpg",
+        "srcSet": "/images/gallery/costum-national-romania-400.jpg 400w, /images/gallery/costum-national-romania-800.jpg 800w",
+        "webpSet": "/images/gallery/costum-national-romania-400.webp 400w, /images/gallery/costum-national-romania-800.webp 800w, /images/gallery/costum-national-romania-1400.webp 1400w",
+        "alt": "Alexandra-Alina Niculescu pe podium, în costum popular românesc, cu eșarfa României",
+        "caption": "Costum național, finala internațională",
+        "credit": "Photography by Elisa",
+        "width": 2687,
+        "height": 4032,
+        "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACwBACdASoQABgAPulep00pJSOiMAgBIB0JZACdMoMsd0g5TMuqi/t2NRJMlg2AAP7pAqTiQPunTlMjoUjUAxMmx9mqY1gB4g+iOYTKHT05N7c23oezNGqlPquzvNhAT1MbBCZudQvJrZE5zqnxa12RHwNAbHW7j/Z6uHYYt5gUzG/z7d+i/OOu9XUo7Kp8QwlZvkYGLI03MIqwWXkKWTYe8Nwhjser4uYJY00gfp2yiCYt2tT0b/7QAAA="
+      },
+      {
+        "id": "incoronare-supreme-universe",
+        "category": "concursuri",
+        "src": "/images/gallery/incoronare-supreme-universe-800.jpg",
+        "srcSet": "/images/gallery/incoronare-supreme-universe-400.jpg 400w, /images/gallery/incoronare-supreme-universe-800.jpg 800w",
+        "webpSet": "/images/gallery/incoronare-supreme-universe-400.webp 400w, /images/gallery/incoronare-supreme-universe-800.webp 800w",
+        "alt": "Momentul încoronării, coroana fiind așezată pe capul Alexandrei-Alina Niculescu",
+        "caption": "Momentul încoronării",
+        "credit": "Photography by Elisa",
+        "width": 1169,
+        "height": 1485,
+        "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoQABQAPulep00pJSOiMAgBIB0JYgCdMoR3AdDogZTft/hNQNZ4akAA/t3t2eYpQ5sl9aJcdvbd1l4Kas33kBZnzfs9/fre/JCcVDNGhBz+Ascq6bOTFBW80XEIwwDhULfL4F8jX15Lsj4O0KJDDvHnd132OlADXFl5RFQUeuTFTxm+0DqTwZsF26IXOR+gol2bMCMnYaOi7hVitSQHgm1uvTPt1/BuAAA="
+      },
+      {
+        "id": "certificat-supreme-universe",
+        "category": "concursuri",
+        "src": "/images/gallery/certificat-supreme-universe-800.jpg",
+        "srcSet": "/images/gallery/certificat-supreme-universe-400.jpg 400w, /images/gallery/certificat-supreme-universe-800.jpg 800w",
+        "webpSet": "/images/gallery/certificat-supreme-universe-400.webp 400w, /images/gallery/certificat-supreme-universe-800.webp 800w, /images/gallery/certificat-supreme-universe-1400.webp 1400w",
+        "alt": "Alexandra-Alina Niculescu primind certificatul Miss Supreme Universe Beauty",
+        "caption": "Miss Supreme Universe Beauty, locul II",
+        "credit": "Photography by Elisa",
+        "width": 3414,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBACdASoQABgAPulgqE0pJaOiMAgBIB0JQBadA9LizNoo57i7D+Hq1gAA/u9jMYY18pjx29lHtkha1WMtXka3KFs6J7jDNv1uO5nhC0nWyd3BMg9te25sSW5ilZaM0Hv3eFOrQle1MGP5bB3xJDa5oRWYaSyvwt0JLRB5Lpt/+o/ahlpskzH00gSIwlqlAHlMWL3b1340OptQYQLEQWAA"
+      },
+      {
+        "id": "miss-peace-europe-2026",
+        "category": "concursuri",
+        "src": "/images/gallery/miss-peace-europe-2026-800.jpg",
+        "srcSet": "/images/gallery/miss-peace-europe-2026-400.jpg 400w, /images/gallery/miss-peace-europe-2026-800.jpg 800w",
+        "webpSet": "/images/gallery/miss-peace-europe-2026-400.webp 400w, /images/gallery/miss-peace-europe-2026-800.webp 800w",
+        "alt": "Grafica oficială Miss Peace International pentru titlul Miss Peace Europe 2026",
+        "caption": "Miss Peace Europe 2026, anunț oficial",
+        "credit": "Miss Peace International",
+        "width": 1288,
+        "height": 1586,
+        "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoQABQAPuleqE0pJSOiMAgBIB0JbACdMoRwACitQMH0W7pEkugA/uZimKLgEsq+2RPtpE7ONAOsLNPlX4VK3a7XY55b+0qXtUEebXMilSmJi0le9XbPNfYQI/YdQzVYdgN+Hu87ZjLriM/O2uMkVmR8ArB3yq1aJJIYgAAA"
+      },
+      {
+        "id": "defilare-rochie-albastra",
+        "category": "concursuri",
+        "src": "/images/gallery/defilare-rochie-albastra-800.jpg",
+        "srcSet": "/images/gallery/defilare-rochie-albastra-400.jpg 400w, /images/gallery/defilare-rochie-albastra-800.jpg 800w",
+        "webpSet": "/images/gallery/defilare-rochie-albastra-400.webp 400w, /images/gallery/defilare-rochie-albastra-800.webp 800w",
+        "alt": "Defilare de seară într-o rochie albastră cu paiete, pe podium, în aer liber",
+        "caption": "Defilare de seară",
+        "credit": "VaNKO Photography",
+        "width": 1179,
+        "height": 1820,
+        "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAwCdASoQABkAPulgqE2pJaOiMAgBIB0JQBhQBDwAAs/XBmrUNIAA/vQg/wZfdW8qaJySXZ4D+8JwbEZh1UHOOqAkWl29SMu9JjJsZ34Nb3fioCscHLPDYefIUd92b5DD4KjO2i/eSGxvYBBfBbLqGZJldsAA"
+      },
+      {
+        "id": "tinuta-aripi-roz",
+        "category": "concursuri",
+        "src": "/images/gallery/tinuta-aripi-roz-800.jpg",
+        "srcSet": "/images/gallery/tinuta-aripi-roz-400.jpg 400w, /images/gallery/tinuta-aripi-roz-800.jpg 800w",
+        "webpSet": "/images/gallery/tinuta-aripi-roz-400.webp 400w, /images/gallery/tinuta-aripi-roz-800.webp 800w, /images/gallery/tinuta-aripi-roz-1400.webp 1400w",
+        "alt": "Ținută de scenă roz, cu aripi și trenă, la o gală de concurs",
+        "caption": "Ținută de scenă",
+        "credit": "",
+        "width": 3778,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADwAwCdASoQABYAPulgqE0pJaOiMAgBIB0JbACdMoR3AB0qSIS4+UPQAP0U3eWpOkqfDjL87A4jgDVxNPNzPLUDxEKwcX3d7cUO9NXdi+QT62GqwdBZu/w5KORD3pqEIkduJe+9r/6Qe7H2wSyj3f+qfPIbKRwOmdWEgZ+QwEmKkDGbU5MvqfD7lC5LDkJ40MA3C21PAlsPLQBY6JrS6/m8/v/k7Vu20zZsRjjb7/1BrU5R+yAAAA=="
+      },
+      {
+        "id": "xtra-night-show",
+        "category": "tv",
+        "src": "/images/gallery/xtra-night-show-800.jpg",
+        "srcSet": "/images/gallery/xtra-night-show-400.jpg 400w, /images/gallery/xtra-night-show-800.jpg 800w",
+        "webpSet": "/images/gallery/xtra-night-show-400.webp 400w, /images/gallery/xtra-night-show-800.webp 800w",
+        "alt": "Alexandra-Alina Niculescu în platoul Xtra Night Show, cu eșarfa Miss Authentic România",
+        "caption": "În platoul Xtra Night Show",
+        "credit": "",
+        "width": 1263,
+        "height": 1578,
+        "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoQABQAPuleqE0pJSOiMAgBIB0JYgCdMoKOOAiNx62DJHXm+pcAAP7ddrzi/k1gpDb7gJNXsfWXl/I/miyOpAl4ScjidW/w9PBx8F5TSs55o4zVFA4pPu8aeq12AIJU0nBtU+exMjPcFR6UTxGE9w1llAuzF+Nqj3dWV1CIf1EvAAAA"
+      },
+      {
+        "id": "rochie-rosie-drapele",
+        "category": "evenimente",
+        "src": "/images/gallery/rochie-rosie-drapele-800.jpg",
+        "srcSet": "/images/gallery/rochie-rosie-drapele-400.jpg 400w, /images/gallery/rochie-rosie-drapele-800.jpg 800w",
+        "webpSet": "/images/gallery/rochie-rosie-drapele-400.webp 400w, /images/gallery/rochie-rosie-drapele-800.webp 800w",
+        "alt": "Ținută de gală roșie, în fața drapelelor țărilor participante",
+        "caption": "Reprezentare internațională",
+        "credit": "",
+        "width": 1366,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAwCdASoQABgAPuleqE0pJSOiMAgBIB0JbAC7MoACnYRd0XmzeAD+06vIzK+/DtXNJY2e78bf/H9qQgDUN8Dmui0r8peImcgk0jLVlrE+W7EZRGshT8smgeshAuWu1asmnIkOwCrfJUegOS0duv6PIciBdYsQZXW/0jPlpmxzYL2wiVG2T9LYHoMKYmtRBxiZ6CAA"
+      },
+      {
+        "id": "eveniment-de-grup",
+        "category": "evenimente",
+        "src": "/images/gallery/eveniment-de-grup-800.jpg",
+        "srcSet": "/images/gallery/eveniment-de-grup-400.jpg 400w, /images/gallery/eveniment-de-grup-800.jpg 800w",
+        "webpSet": "/images/gallery/eveniment-de-grup-400.webp 400w, /images/gallery/eveniment-de-grup-800.webp 800w, /images/gallery/eveniment-de-grup-1400.webp 1400w",
+        "alt": "Fotografie de grup a participantelor la un eveniment de preselecție",
+        "caption": "Eveniment de preselecție",
+        "credit": "",
+        "width": 5120,
+        "height": 3414,
+        "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAAwBWJZQAD5CQcQpsYnMAAAD+7kV8SmD/3I88MCpev1ISEuLYMzV7E9fgzbj8hq2nMyV6j/XYZ3kjPqizWT+9dVoAaFXIAT6XHI+X4eIDII2F6BAA"
+      },
+      {
+        "id": "aparitie-oficiala",
+        "category": "evenimente",
+        "src": "/images/gallery/aparitie-oficiala-800.jpg",
+        "srcSet": "/images/gallery/aparitie-oficiala-400.jpg 400w, /images/gallery/aparitie-oficiala-800.jpg 800w",
+        "webpSet": "/images/gallery/aparitie-oficiala-400.webp 400w, /images/gallery/aparitie-oficiala-800.webp 800w",
+        "alt": "Apariție oficială alături de două invitate, purtând eșarfa Miss Peace",
+        "caption": "Apariție oficială",
+        "credit": "",
+        "width": 1062,
+        "height": 1600,
+        "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABgAPuleqE0pJSOiMAgBIB0JZwDE2CLY60WUnAKlCKnfy0AAAPjSx3ZLEgH/0jUnyGs5WgcGqAlXgpoLiRoPb0U+fSuBPjXuB4rN7cXvdH6D8TvHGFGRsnuBWGBPx+Vsge5qxqC1PTzNfKBsL4vBajKGbAUjnNhfwXGoazqWX/xWA9cf2SFcoDV+MD0AAAA="
+      },
+      {
+        "id": "editorial-interior",
+        "category": "editorial",
+        "src": "/images/gallery/editorial-interior-800.jpg",
+        "srcSet": "/images/gallery/editorial-interior-400.jpg 400w, /images/gallery/editorial-interior-800.jpg 800w",
+        "webpSet": "/images/gallery/editorial-interior-400.webp 400w, /images/gallery/editorial-interior-800.webp 800w, /images/gallery/editorial-interior-1400.webp 1400w",
+        "alt": "Portret editorial într-un interior clasic, cu telefon vintage și candelabru",
+        "caption": "Editorial de interior",
+        "credit": "",
+        "width": 3072,
+        "height": 4096,
+        "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoQABUAPulgqE0pJaOiMAgBIB0JYwCdAfwAkMQkaUmueNAQuoAA+V7y78mY7aOXChJH4M3xTkYz3OLaWlCkd7x4PmVUmg4Oh0n0k42HNIri0oFCA3Qu2Tqd+klVRFWYNoRwpYfii30x271q6w+sWO1GprNbHfOV090MVW6jX198YjVcURtgk8U2OQ5AAA=="
+      },
+      {
+        "id": "perumira-editie-tiparita",
+        "category": "editorial",
+        "src": "/images/gallery/perumira-editie-tiparita-800.jpg",
+        "srcSet": "/images/gallery/perumira-editie-tiparita-400.jpg 400w, /images/gallery/perumira-editie-tiparita-800.jpg 800w",
+        "webpSet": "/images/gallery/perumira-editie-tiparita-400.webp 400w, /images/gallery/perumira-editie-tiparita-800.webp 800w, /images/gallery/perumira-editie-tiparita-1400.webp 1400w",
+        "alt": "Alexandra-Alina Niculescu ținând ediția tipărită a revistei PeruMira",
+        "caption": "Ediția tipărită PeruMira",
+        "credit": "",
+        "width": 3840,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoQABUAPulep00pJSOiMAgBIB0JQBOiP/y7AFGo+RmDP1utG7WgAP6FfJ2WhFsrvgBEFQbBQvsl4NopHSE7t1Ey7ij/8bBLJsooJxuL0ty18uyGeG4+BsEmZxTE8LHl44T8U27828daDMc73YtcbjzLeVmWoIA4HfvGgEemJ919ZGP4s63YwPIgaqCtiWGhpOcxB5RpaAA="
+      },
+      {
+        "id": "perumira-coperta",
+        "category": "editorial",
+        "src": "/images/gallery/perumira-coperta-800.jpg",
+        "srcSet": "/images/gallery/perumira-coperta-400.jpg 400w, /images/gallery/perumira-coperta-800.jpg 800w",
+        "webpSet": "/images/gallery/perumira-coperta-400.webp 400w, /images/gallery/perumira-coperta-800.webp 800w, /images/gallery/perumira-coperta-1400.webp 1400w",
+        "alt": "Coperta revistei PeruMira cu Alina-Alexandra Niculescu",
+        "caption": "Coperta PeruMira",
+        "credit": "PeruMira Magazine",
+        "width": 1440,
+        "height": 1603,
+        "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAwCdASoQABIAPuleqE0pJSOiMAgBIB0JQAqCsIcM2xAC3Nf8/5wAAP7UtwSw+plkJ43Wl6eD+oUU9UFu/kzHGztEywzR5oWq2UwZ8eIwhNsciHeAilBfiAKKUW3L89HhaauNez8TPdwrs8Y1bjC9c6cdf38lpj4RhJxI6TzW28yRvtZxLWTJqrEo91HQ/l/ZO/fUjIMmAHV6EhRpgAAA"
+      },
+      {
+        "id": "campanie-parfum",
+        "category": "editorial",
+        "src": "/images/gallery/campanie-parfum-800.jpg",
+        "srcSet": "/images/gallery/campanie-parfum-400.jpg 400w, /images/gallery/campanie-parfum-800.jpg 800w",
+        "webpSet": "/images/gallery/campanie-parfum-400.webp 400w, /images/gallery/campanie-parfum-800.webp 800w, /images/gallery/campanie-parfum-1400.webp 1400w",
+        "alt": "Cadru de campanie pentru o linie de parfum, pe o terasă cu vedere la mare",
+        "caption": "Campanie de produs",
+        "credit": "",
+        "width": 2846,
+        "height": 4282,
+        "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoQABgAPulep00pJSOiMAgBIB0JQBWEGxhwBHsSkWgDqRdMJTgeAADiS5dRxZrBJxRy8Mr+JXC5a5ZItkjZMc618slqBlV8esaA4yt4m3UoFia5UcpjGF1ZJfRddIiB0suDNcVpapmsv9aM6yDvYzST9Y5xyjXn5qi2XrXPSeoxT4mLnRbigafKR/06piVGqzDREdT81Tjyn88dstqGhc2AAAA="
+      },
+      {
+        "id": "portret-machiaj",
+        "category": "portrete",
+        "src": "/images/gallery/portret-machiaj-800.jpg",
+        "srcSet": "/images/gallery/portret-machiaj-400.jpg 400w, /images/gallery/portret-machiaj-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-machiaj-400.webp 400w, /images/gallery/portret-machiaj-800.webp 800w, /images/gallery/portret-machiaj-1400.webp 1400w",
+        "alt": "Portret în prim-plan, cu machiaj de scenă și cercei aurii",
+        "caption": "Portret de aproape",
+        "credit": "",
+        "width": 3024,
+        "height": 4032,
+        "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoQABUAPuleqE0pJSOiMAgBIB0JQBOmUI4AA8LJgd3M4DqeG44AAP7jTUnnznup8phKLmF+ipWlSzHxQD3k8SNRKA0lnKph/nRv6qx1nUVug1XFzPtiJ95I3sidzzN19afUa/5fzKR1v3fyxmou6yleKshRBcRSMwAAAA=="
+      },
+      {
+        "id": "portret-coroana",
+        "category": "portrete",
+        "src": "/images/gallery/portret-coroana-800.jpg",
+        "srcSet": "/images/gallery/portret-coroana-400.jpg 400w, /images/gallery/portret-coroana-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-coroana-400.webp 400w, /images/gallery/portret-coroana-800.webp 800w",
+        "alt": "Portret cu coroană, într-un interior clasic",
+        "caption": "Portret cu coroană",
+        "credit": "",
+        "width": 1179,
+        "height": 1411,
+        "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoQABMAPuleqE0pJSOiMAgBIB0JZACdMoACYOjVyQX+PLQYAP6NZMWH1KK7dsHMVzVsQ97ptga/jsKVH//X8B9XgpRubOGEf3g2l6SQUyYrzT50lIobgBOIV8ALKGyedXTmXppOq9acp64NoE2VGEFLYPHC+uxVIAA="
+      },
+      {
+        "id": "backstage-salon",
+        "category": "backstage",
+        "src": "/images/gallery/backstage-salon-800.jpg",
+        "srcSet": "/images/gallery/backstage-salon-400.jpg 400w, /images/gallery/backstage-salon-800.jpg 800w",
+        "webpSet": "/images/gallery/backstage-salon-400.webp 400w, /images/gallery/backstage-salon-800.webp 800w, /images/gallery/backstage-salon-1400.webp 1400w",
+        "alt": "Pregătiri într-un salon, înainte de un eveniment",
+        "caption": "Pregătiri înainte de scenă",
+        "credit": "",
+        "width": 3836,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoQABUAPulep00pJSOiMAgBIB0JYgCdABwskkQhqaMSQgIud3gA/Sbesu/QafecQtqH8mTdWF2IR2LquiRanKPFGSjcLs+U5TTCmtIsRrWqym1ZXM4x+9sMt/q6lIFK/AmJ/lMYXzQZ5o4wwoDCfyrtV3YCLHn8ZFGjNLzIkmnHA0D5oQ6/rQG9FeAlk1ZgAAA="
+      },
+      {
+        "id": "backstage-oglinda",
+        "category": "backstage",
+        "src": "/images/gallery/backstage-oglinda-800.jpg",
+        "srcSet": "/images/gallery/backstage-oglinda-400.jpg 400w, /images/gallery/backstage-oglinda-800.jpg 800w",
+        "webpSet": "/images/gallery/backstage-oglinda-400.webp 400w, /images/gallery/backstage-oglinda-800.webp 800w, /images/gallery/backstage-oglinda-1400.webp 1400w",
+        "alt": "Cadru din culise, în fața oglinzii cu becuri",
+        "caption": "Culise",
+        "credit": "",
+        "width": 1700,
+        "height": 2560,
+        "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoQABgAPulgqE0pJaQiMAgBIB0JQBOgMY2b7bOCEYwfupf1/SNAAAD9yiS544/KPE6Ao1HIZwBtg0HCARE07O/9wvMaA7qymscPbq+YF8wTd5OZWwBc6Z6Mh2o1uTYqgjHGwwLt09TIoX/gQT8iGmqirT+u3J9z64kL9N6fKCu6QJPQThsQHfchALOPoIgFFWy8j+M2X2LlXIAA"
+      },
+      {
+        "id": "miss-peace-romania-portret",
+        "category": "palmares",
+        "src": "/images/gallery/miss-peace-romania-portret-800.jpg",
+        "srcSet": "/images/gallery/miss-peace-romania-portret-400.jpg 400w, /images/gallery/miss-peace-romania-portret-800.jpg 800w",
+        "webpSet": "/images/gallery/miss-peace-romania-portret-400.webp 400w, /images/gallery/miss-peace-romania-portret-800.webp 800w, /images/gallery/miss-peace-romania-portret-1400.webp 1400w",
+        "alt": "Portret cu coroana și eșarfa Miss Peace România 2026",
+        "caption": "Miss Peace România 2026",
+        "credit": "",
+        "width": 1440,
+        "height": 1920,
+        "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoQABUAPuleqE0pJSOiMAgBIB0JYwCdMoQP+gABSZvAzKZ8n1w0l0AA/Owpn9ILboTCoS4UlNAcCU6Qx/6/07m8Gi5hhlPz4oaJWpFrYysOq/90XuE1HXya1XuqmTLZepACz1AAebHCYvmsc7zRVYgEwTWnWHvkhmOR4kibELjUMg6hmz86MgmSAAA="
+      },
+      {
+        "id": "incoronare-miss-peace-romania",
+        "category": "palmares",
+        "src": "/images/gallery/incoronare-miss-peace-romania-800.jpg",
+        "srcSet": "/images/gallery/incoronare-miss-peace-romania-400.jpg 400w, /images/gallery/incoronare-miss-peace-romania-800.jpg 800w",
+        "webpSet": "/images/gallery/incoronare-miss-peace-romania-400.webp 400w, /images/gallery/incoronare-miss-peace-romania-800.webp 800w, /images/gallery/incoronare-miss-peace-romania-1400.webp 1400w",
+        "alt": "Momentul încoronării ca Miss Peace România 2026",
+        "caption": "Încoronare, Miss Peace România 2026",
+        "credit": "",
+        "width": 4288,
+        "height": 2848,
+        "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAAwBWJYwCw7D0p3TtBjAA/sp/Otf3Jkty8lCrAW4xP9A8rMmi7cHfTqW4Y7k2i0tGeynNs2nGhRrx044iWzy7zamFseHmUdBmM6VFrjIWAAA="
+      },
+      {
+        "id": "glamour-best-faces-moldova",
+        "category": "palmares",
+        "src": "/images/gallery/glamour-best-faces-moldova-800.jpg",
+        "srcSet": "/images/gallery/glamour-best-faces-moldova-400.jpg 400w, /images/gallery/glamour-best-faces-moldova-800.jpg 800w",
+        "webpSet": "/images/gallery/glamour-best-faces-moldova-400.webp 400w, /images/gallery/glamour-best-faces-moldova-800.webp 800w",
+        "alt": "Eșarfa Miss Glamour Best Faces Moldova 2025, purtată pe scenă",
+        "caption": "Miss Glamour Best Faces Moldova 2025",
+        "credit": "",
+        "width": 1062,
+        "height": 1600,
+        "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACwBACdASoQABgAPuleqE0pJSOiMAgBIB0JZgCdMoR4G8AVy8zsinRlM1e0seeAAP659Q86BuH5n67+p6UAm/zRozNnEKHwK2celJSRWaLKxf/vRO6gXE8DU4mUUrKxXUKbOHTBUFoGz7vUrj/L5pa/DkijEWHxoar+v1tTyln3uxfKYxgYN0Ctjj75Nf/fJIcyK2FxN3A+orDoN9NsHpyiNncQ4yu1o3AAAA=="
+      },
+      {
+        "id": "glamour-faces-top-model",
+        "category": "palmares",
+        "src": "/images/gallery/glamour-faces-top-model-800.jpg",
+        "srcSet": "/images/gallery/glamour-faces-top-model-400.jpg 400w, /images/gallery/glamour-faces-top-model-800.jpg 800w",
+        "webpSet": "/images/gallery/glamour-faces-top-model-400.webp 400w, /images/gallery/glamour-faces-top-model-800.webp 800w",
+        "alt": "Eșarfa Miss Glamour Faces Top Model, cu o coroană în mâini",
+        "caption": "Miss Glamour Faces Top Model 2025",
+        "credit": "",
+        "width": 1062,
+        "height": 1600,
+        "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoQABgAPuleqE0pJSOiMAgBIB0JQBWEBLhZQe3wOAg8h0Ap7ouBgAD+9DLJvBKqy9FcUXncbFe9w16ZHWXDiRp/zX9arXATDuCJ3MkfeZbkhRdIQM9+/A5qejsS+bOL2y1d0oJLfLyh0TCdcvrKZQurMmX+eypxB1hOvbq5PoamlcQLGWyJ/B3g9vNRyxLGwgvKAJHSBjDNvzt3kNxUDTEbNF3V9mVV0KfNDWkIrHRaqe4CbOSRKAAA"
+      },
+      {
+        "id": "oktoberfest-miss-best-face",
+        "category": "palmares",
+        "src": "/images/gallery/oktoberfest-miss-best-face-800.jpg",
+        "srcSet": "/images/gallery/oktoberfest-miss-best-face-400.jpg 400w, /images/gallery/oktoberfest-miss-best-face-800.jpg 800w",
+        "webpSet": "/images/gallery/oktoberfest-miss-best-face-400.webp 400w, /images/gallery/oktoberfest-miss-best-face-800.webp 800w",
+        "alt": "Diploma Miss Best Face, primită la Oktoberfest București",
+        "caption": "Miss Best Face, Oktoberfest București 2023",
+        "credit": "",
+        "width": 1169,
+        "height": 1545,
+        "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoQABUAPulgqE0pJaOiMAgBIB0JZACdAYxEZuMiqZC1XGldwAD+SvAH2948QIY7Bbi3zNPYlCN4n6xunt3zN2d02yFeh5dcAu3q8kovEwhr2xd8SfyuwY2VgCstL88/MStbLfE935JC38etOshCqc/Xy5Ner42ifrrROQnu+jcWxCiWz2Rwo65z7FJv/g36mJ1ZN/gAAAA="
+      },
+      {
+        "id": "regina-deuropa-diplome",
+        "category": "palmares",
+        "src": "/images/gallery/regina-deuropa-diplome-800.jpg",
+        "srcSet": "/images/gallery/regina-deuropa-diplome-400.jpg 400w, /images/gallery/regina-deuropa-diplome-800.jpg 800w",
+        "webpSet": "/images/gallery/regina-deuropa-diplome-400.webp 400w, /images/gallery/regina-deuropa-diplome-800.webp 800w",
+        "alt": "Eșarfa Regina d’Europa, coroana și diplomele primite",
+        "caption": "Regina d’Europa, diplome și coroană",
+        "credit": "",
+        "width": 1152,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwAwCdASoQABwAPuleqE0pJSOiMAgBIB0JQBadAs2/SZLWiCPdj6pAAP7jac3i7Z9wwchMm9CP6iirk0gzgpgdA4sAtIsdAmV+N/6KcKzs3UJX9gaOIhlewuJfdwQOAfpIF+c/sGleFjRaaAwM1DimLEbrstBtT6XI1EcNkK11bwg+oHFWJdIGepgCyoUPzuaxJwckcISsstFk2Bp4zi3wNdhhlagA"
+      },
+      {
+        "id": "esarfe-glamour-moldova",
+        "category": "palmares",
+        "src": "/images/gallery/esarfe-glamour-moldova-800.jpg",
+        "srcSet": "/images/gallery/esarfe-glamour-moldova-400.jpg 400w, /images/gallery/esarfe-glamour-moldova-800.jpg 800w",
+        "webpSet": "/images/gallery/esarfe-glamour-moldova-400.webp 400w, /images/gallery/esarfe-glamour-moldova-800.webp 800w",
+        "alt": "Cele două eșarfe Miss Glamour Moldova 2025, așezate lângă coroană",
+        "caption": "Eșarfele Miss Glamour Moldova 2025",
+        "credit": "",
+        "width": 1152,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoQABwAPulep00pJSOiMAgBIB0JZACdMoACPDcguF6+6s+yrFuwAM46dd+tRsVpwa1VMc1uXGsm++yFlZkqeMpYEot4zYU1irowGIp1VGTwhP4mRp6YRPYc/wQK1vassaN5ORBTh9YF15J9TxIplSsSLAxnBXRmk4Jp9VEWgntZf8ShNCF+Ni+6FOK7HJqCbygAJFc/IqrkWR5jcJoAAA=="
+      },
+      {
+        "id": "portret-coroana-aurie",
+        "category": "palmares",
+        "src": "/images/gallery/portret-coroana-aurie-800.jpg",
+        "srcSet": "/images/gallery/portret-coroana-aurie-400.jpg 400w, /images/gallery/portret-coroana-aurie-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-coroana-aurie-400.webp 400w, /images/gallery/portret-coroana-aurie-800.webp 800w, /images/gallery/portret-coroana-aurie-1400.webp 1400w",
+        "alt": "Portret cu coroana aurie, pe fundal neutru",
+        "caption": "Portret cu coroana aurie",
+        "credit": "",
+        "width": 3072,
+        "height": 4096,
+        "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoQABUAPulgqE0pJaOiMAgBIB0JQBOmUGMABZ2vXXkXknhUmktAAPewMMSJ4mSM0MbAqjTWn0gtRXfkPlp+j8ABrY1rbLvCU8bSLzJq6CfqaI8BXK07oIW8K1Be/0A9IvNi+Zq5hfjTp87NV87Ffgsd1rE5WgiEP2N0X0lJVnABRsCj/gZNaA/vDpi+3PPykAAAAA=="
+      },
+      {
+        "id": "esarfa-romania-expo",
+        "category": "palmares",
+        "src": "/images/gallery/esarfa-romania-expo-800.jpg",
+        "srcSet": "/images/gallery/esarfa-romania-expo-400.jpg 400w, /images/gallery/esarfa-romania-expo-800.jpg 800w",
+        "webpSet": "/images/gallery/esarfa-romania-expo-400.webp 400w, /images/gallery/esarfa-romania-expo-800.webp 800w",
+        "alt": "Ținută de scenă cu eșarfa României, la o prezentare",
+        "caption": "Cu eșarfa României",
+        "credit": "",
+        "width": 1179,
+        "height": 1451,
+        "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABwBACdASoQABQAPuleqE0pJSOiMAgBIB0JYgCdMoMYA0mhKAi0jdqOUQE8qAD+9DJf1yRAFVbKL6eZtgV4zZYyv0XQG0lMv6EWsekwJnwH69DYUILtFiL8S2Z9dV7GYPRqXrhGCcW5PLSjMSKKKXWtPwbWWTPTwoF7FPLSPJHO+n1kZRFtM7DZBCZq/JcnJdMUaQ7wCLsPh9zv89IAAA=="
+      },
+      {
+        "id": "rochie-aurie-gala",
+        "category": "concursuri",
+        "src": "/images/gallery/rochie-aurie-gala-800.jpg",
+        "srcSet": "/images/gallery/rochie-aurie-gala-400.jpg 400w, /images/gallery/rochie-aurie-gala-800.jpg 800w",
+        "webpSet": "/images/gallery/rochie-aurie-gala-400.webp 400w, /images/gallery/rochie-aurie-gala-800.webp 800w, /images/gallery/rochie-aurie-gala-1400.webp 1400w",
+        "alt": "Ținută de gală cu bustieră metalică aurie și trenă de tul",
+        "caption": "Ținută de gală",
+        "credit": "",
+        "width": 3652,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABYAPulgqE0pJaOiMAgBIB0JZgCdMoFWkgQw+PNMYRAdf94AAP5EGiw25WxTWzIX/ifsVNdt0pv+ZIzcdOI7B4xJ+KOaYKN/SmS/NUqcI35Lz8KCruT6XPicroujbsSGW7V/Dqw2nVaMZM4gQ1E9x8pPPZooQynn953i67BM2kmbQAA="
+      },
+      {
+        "id": "defilare-tinuta-zi",
+        "category": "concursuri",
+        "src": "/images/gallery/defilare-tinuta-zi-800.jpg",
+        "srcSet": "/images/gallery/defilare-tinuta-zi-400.jpg 400w, /images/gallery/defilare-tinuta-zi-800.jpg 800w",
+        "webpSet": "/images/gallery/defilare-tinuta-zi-400.webp 400w, /images/gallery/defilare-tinuta-zi-800.webp 800w",
+        "alt": "Defilare pe podium, într-o ținută de zi",
+        "caption": "Defilare pe podium",
+        "credit": "",
+        "width": 1179,
+        "height": 1863,
+        "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwBACdASoQABkAPuleqE0pJSOiMAgBIB0JQBWAO4AUx93Py0bwTrLN6oAA/pRJqRYdx6nWqKjmhW1JIW2p5hEmgT+CexPjfbaIpTrhmXfdxPN6Yv6zO83AslOdm5dRFX3+5sDMgu4MRc4hVZrMmll0fCOYpQgCv95vk0V8At/eUKfzyoh9EtT8M0Z6xd9SzBf1WAAA"
+      },
+      {
+        "id": "finala-glamour-face",
+        "category": "concursuri",
+        "src": "/images/gallery/finala-glamour-face-800.jpg",
+        "srcSet": "/images/gallery/finala-glamour-face-400.jpg 400w, /images/gallery/finala-glamour-face-800.jpg 800w",
+        "webpSet": "/images/gallery/finala-glamour-face-400.webp 400w, /images/gallery/finala-glamour-face-800.webp 800w, /images/gallery/finala-glamour-face-1400.webp 1400w",
+        "alt": "Scena finalei Glamour Face, în momentul acordării coroanei",
+        "caption": "Finala Glamour Face",
+        "credit": "",
+        "width": 1588,
+        "height": 1061,
+        "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAsAAwBWJYgCdAB2MEpeAAD+6Z0/kxHWxOhYre59CGaa0oJSiIhrQyfeGe3puUnlE2Fy23OCK634FGZ9vHJvzVcNHFlg0QAAAA=="
+      },
+      {
+        "id": "costum-scena-final",
+        "category": "concursuri",
+        "src": "/images/gallery/costum-scena-final-800.jpg",
+        "srcSet": "/images/gallery/costum-scena-final-400.jpg 400w, /images/gallery/costum-scena-final-800.jpg 800w",
+        "webpSet": "/images/gallery/costum-scena-final-400.webp 400w, /images/gallery/costum-scena-final-800.webp 800w, /images/gallery/costum-scena-final-1400.webp 1400w",
+        "alt": "Ținută de scenă cu coroniță roz, la finala Glamour Face Bulgaria & World",
+        "caption": "Finala Glamour Face Bulgaria & World",
+        "credit": "VaNKO Photography",
+        "width": 3406,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoQABgAPuleqE0pJSQiMAgBIB0JQAALibersVi14uvGZmgA/vVuhhxanU9wVNjxeM3QmJT4aJpKdiZlwP5JW6Bfj7F7zBbdPPPrAb7eWu0YrT3+S2ffQBakA3A2C+akHYFoz+srypNg/kuliufWbtjOrMnoFcpEEURTDMK80OSig+6YC9+6FGtvOqkRJdoA"
+      },
+      {
+        "id": "platou-stiri",
+        "category": "tv",
+        "src": "/images/gallery/platou-stiri-800.jpg",
+        "srcSet": "/images/gallery/platou-stiri-400.jpg 400w, /images/gallery/platou-stiri-800.jpg 800w",
+        "webpSet": "/images/gallery/platou-stiri-400.webp 400w, /images/gallery/platou-stiri-800.webp 800w, /images/gallery/platou-stiri-1400.webp 1400w",
+        "alt": "În platoul unei emisiuni de știri",
+        "caption": "În platoul de știri",
+        "credit": "",
+        "width": 3777,
+        "height": 3777,
+        "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQABAAAwBWJZAC7AEK0+0a6OJRAAD+5GDLpSDSZ3Ty+d4vGn3p46kpYLCyuydgKDRER1G87DwUJxv9+dBP3Eou7wFIcm3tNXOwyZarnw/yNeI0R+tmMtWqdQsmAAAA"
+      },
+      {
+        "id": "inregistrare-podcast",
+        "category": "tv",
+        "src": "/images/gallery/inregistrare-podcast-800.jpg",
+        "srcSet": "/images/gallery/inregistrare-podcast-400.jpg 400w, /images/gallery/inregistrare-podcast-800.jpg 800w",
+        "webpSet": "/images/gallery/inregistrare-podcast-400.webp 400w, /images/gallery/inregistrare-podcast-800.webp 800w, /images/gallery/inregistrare-podcast-1400.webp 1400w",
+        "alt": "Înregistrare de podcast, pe canapeaua din studio",
+        "caption": "Înregistrare de podcast",
+        "credit": "",
+        "width": 1816,
+        "height": 4032,
+        "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBACdASoQACQAPtVYo00oJSMiNUgBABqJYwDCgC0T0dUeE5zvfu56UidKuPgA/qHPEDrgDujfvF73A5QVEgQjbg5e5DwG0wNDkJ0XMbVEQVaXalg9XZAPKB/jddyK2UjICKZlqsbMIV28Nr8M32/YVHIjCOyg8rWmo6QuBvP59vwwMPxloFKYAAA="
+      },
+      {
+        "id": "sedinta-foto-piscina",
+        "category": "editorial",
+        "src": "/images/gallery/sedinta-foto-piscina-800.jpg",
+        "srcSet": "/images/gallery/sedinta-foto-piscina-400.jpg 400w, /images/gallery/sedinta-foto-piscina-800.jpg 800w",
+        "webpSet": "/images/gallery/sedinta-foto-piscina-400.webp 400w, /images/gallery/sedinta-foto-piscina-800.webp 800w, /images/gallery/sedinta-foto-piscina-1400.webp 1400w",
+        "alt": "Ședință foto lângă piscină, într-o rochie albă tricotată",
+        "caption": "Ședință foto de vară",
+        "credit": "VaNKO Photography",
+        "width": 2644,
+        "height": 3525,
+        "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBACdASoQABUAPuleqE0pJSOiMAgBIB0JbAC7MoADVI3TjBgV/Wj8AAD+4AZmZ0uxBNYU7nV/EouZmDYDdRBRT9+Wd9hgUV8a8zKQ5URsCMlTuzh8OwTgSc4cOhyCSJzJlqRs5Y35lDVMWXoiY4Gs0EoLCT6IbIr5+ZL2BzcZaOC7vcqrQve056QxWjtzo7sqFbSMSbIZCt8R8j5/z//D9+xCvXizb+6ZI3yVwAA="
+      },
+      {
+        "id": "finala-glamour-rochie-albastra",
+        "category": "concursuri",
+        "src": "/images/gallery/finala-glamour-rochie-albastra-800.jpg",
+        "srcSet": "/images/gallery/finala-glamour-rochie-albastra-400.jpg 400w, /images/gallery/finala-glamour-rochie-albastra-800.jpg 800w",
+        "webpSet": "/images/gallery/finala-glamour-rochie-albastra-400.webp 400w, /images/gallery/finala-glamour-rochie-albastra-800.webp 800w",
+        "alt": "Pe scena finalei Glamour Face, într-o rochie albastră cu paiete",
+        "caption": "Finala Glamour Face",
+        "credit": "",
+        "width": 1062,
+        "height": 1416,
+        "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoQABUAPuleqE0pJSQiMAgBIB0JYgCdMoMulD90HjBRxdTLB/YAAP7o8RobSqasxvFO/jGAunRwI6jIQhvdaOE+dcH27Jx6SSVuUI+oysWyy1ABAzXiwq6hxVaVhYqgqLP16oVrB4bP2DOQBD8I0mwA1uCk4nzE7AA="
+      },
+      {
+        "id": "defilare-podium-piscina",
+        "category": "concursuri",
+        "src": "/images/gallery/defilare-podium-piscina-800.jpg",
+        "srcSet": "/images/gallery/defilare-podium-piscina-400.jpg 400w, /images/gallery/defilare-podium-piscina-800.jpg 800w",
+        "webpSet": "/images/gallery/defilare-podium-piscina-400.webp 400w, /images/gallery/defilare-podium-piscina-800.webp 800w, /images/gallery/defilare-podium-piscina-1400.webp 1400w",
+        "alt": "Defilare pe podiumul de lângă piscină, filmată cu drona",
+        "caption": "Defilare de finală",
+        "credit": "VaNKO Photography",
+        "width": 3406,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoQABgAPulgqU2pJaQiMAgBIB0JQAALg3L9FHxpztmUYUfZYAD+9CJwGiw9W5f1NDr3k4bWxbM6trS1wezYbun+UgSX+4G9hpP60XvVp+PXGnwwt8vjCswOOsTuiHU+l2N0MNXmIq6yF+dDLyFmAAAA"
+      },
+      {
+        "id": "preselectie-rochie-aurie",
+        "category": "concursuri",
+        "src": "/images/gallery/preselectie-rochie-aurie-800.jpg",
+        "srcSet": "/images/gallery/preselectie-rochie-aurie-400.jpg 400w, /images/gallery/preselectie-rochie-aurie-800.jpg 800w",
+        "webpSet": "/images/gallery/preselectie-rochie-aurie-400.webp 400w, /images/gallery/preselectie-rochie-aurie-800.webp 800w",
+        "alt": "Prezentare într-o rochie aurie, la o etapă de preselecție",
+        "caption": "Etapă de preselecție",
+        "credit": "",
+        "width": 1179,
+        "height": 1734,
+        "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBACdASoQABgAPulep00pJSOiMAgBIB0JaACdMoRwACn+BVAIafCjGgvz13kmgAD+IUPHfw8AsqL9SHVXJeGekocC4C9LxMKKPP9Ic1EvUyDMib1NpTs0QP6kppbzwc4gbU5E7mRqbUhqYH87oM5bK6K8d+HcKciW41e4Bum34pvNoY+TYvxNnt1XLDyoSeVSojq2oXq65wAA"
+      },
+      {
+        "id": "costum-popular-coronita",
+        "category": "concursuri",
+        "src": "/images/gallery/costum-popular-coronita-800.jpg",
+        "srcSet": "/images/gallery/costum-popular-coronita-400.jpg 400w, /images/gallery/costum-popular-coronita-800.jpg 800w",
+        "webpSet": "/images/gallery/costum-popular-coronita-400.webp 400w, /images/gallery/costum-popular-coronita-800.webp 800w",
+        "alt": "Costum popular românesc, cu coroniță de flori",
+        "caption": "Costum popular, pe podium",
+        "credit": "",
+        "width": 1184,
+        "height": 1669,
+        "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBACdASoQABcAPuleqE0pJSOiMAgBIB0JQBOmUAnABJmuOjKKLPAX7oEBJAAA+L/Elr2YiJk+1zwsL0so0nAqCE43bEkJ6e5WsB8CpgjkX4op5ChsQW5AeIB79Fj42QT5eCR4XZzZfeYvcoi0KUpqf0dJedAOzukflH/qRBlV1Dzdu3PR/mLN/w+iKSmbLFmQnBBEBJ3cSITKwqa9VG+QmrDLwAAA"
+      },
+      {
+        "id": "rochie-aurie-oglinda",
+        "category": "concursuri",
+        "src": "/images/gallery/rochie-aurie-oglinda-800.jpg",
+        "srcSet": "/images/gallery/rochie-aurie-oglinda-400.jpg 400w, /images/gallery/rochie-aurie-oglinda-800.jpg 800w",
+        "webpSet": "/images/gallery/rochie-aurie-oglinda-400.webp 400w, /images/gallery/rochie-aurie-oglinda-800.webp 800w, /images/gallery/rochie-aurie-oglinda-1400.webp 1400w",
+        "alt": "Ținută de gală cu bustieră metalică, în fața unei oglinzi cu ramă aurită",
+        "caption": "Înainte de intrarea pe scenă",
+        "credit": "",
+        "width": 3840,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoQABUAPuleqE0pJSOiMAgBIB0JbAC1IUE4BPFYB1oze45UKKbEAAD+RBCRGAUwSPBW7cSg46o4R2jc/WPe0C1F1MbI+xi/pPb220WXkC001Z7OmHsXaN44qZ9a1fa1zLddT2hN4tMTr/l3A3trsdxRqiOAKaUZv2sI1ZKYdV8vI7ouYZorShPgWHMxGxQAAAA="
+      },
+      {
+        "id": "coroana-masina-rosie",
+        "category": "palmares",
+        "src": "/images/gallery/coroana-masina-rosie-800.jpg",
+        "srcSet": "/images/gallery/coroana-masina-rosie-400.jpg 400w, /images/gallery/coroana-masina-rosie-800.jpg 800w",
+        "webpSet": "/images/gallery/coroana-masina-rosie-400.webp 400w, /images/gallery/coroana-masina-rosie-800.webp 800w, /images/gallery/coroana-masina-rosie-1400.webp 1400w",
+        "alt": "Portret cu coroana de câștigătoare, lângă o mașină sport roșie",
+        "caption": "Cu coroana de câștigătoare",
+        "credit": "",
+        "width": 2931,
+        "height": 3663,
+        "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoQABQAPuleqE0pJSOiMAgBIB0JbACw7Ywm7NCirWv2O5Syy8RAAP7ZkwwS2amvcX5iEpfuFyvjHyQY9oViJ+5dvr6S67t5X+zzFA28RgbS1z3mitRqK2l/oBKe/STbXz4QOuPEGDOHhRx5AvovX6PHugLfUsfJDba/L8WczcsupYrdrKJf2sA1jJNCkHGUEx/QRRGjQqnGbJb8vIXAsAAA"
+      },
+      {
+        "id": "coroana-portret-apropiat",
+        "category": "palmares",
+        "src": "/images/gallery/coroana-portret-apropiat-800.jpg",
+        "srcSet": "/images/gallery/coroana-portret-apropiat-400.jpg 400w, /images/gallery/coroana-portret-apropiat-800.jpg 800w",
+        "webpSet": "/images/gallery/coroana-portret-apropiat-400.webp 400w, /images/gallery/coroana-portret-apropiat-800.webp 800w",
+        "alt": "Prim-plan cu coroana de câștigătoare",
+        "caption": "Coroana, în prim-plan",
+        "credit": "",
+        "width": 1289,
+        "height": 1641,
+        "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoQABQAPuleqE0pJSOiMAgBIB0JbACdHYAIL8RzE1M7n9S/6L/8AAD+2iEppZ9VZK/R4WgqfXEPmvG8wv8BV6lT7pmXSK/OUSQMgqk6VYXI5rlxMle4DIKuCJRX7oWPFpwj696bIwTfUYcN9mGa+vNskQWkO19YG68vDvgxCV+w7+Yeu0eP1Zh7KHK1/ycCAbK9wl5R+6sn+j6t/JJqxGtlHhO/Bv7VmWPgAA=="
+      },
+      {
+        "id": "regina-deuropa-fotogenia",
+        "category": "palmares",
+        "src": "/images/gallery/regina-deuropa-fotogenia-800.jpg",
+        "srcSet": "/images/gallery/regina-deuropa-fotogenia-400.jpg 400w, /images/gallery/regina-deuropa-fotogenia-800.jpg 800w",
+        "webpSet": "/images/gallery/regina-deuropa-fotogenia-400.webp 400w, /images/gallery/regina-deuropa-fotogenia-800.webp 800w, /images/gallery/regina-deuropa-fotogenia-1400.webp 1400w",
+        "alt": "Coroana și eșarfa Regina d’Europa, Miss Fotogenia",
+        "caption": "Regina d’Europa, Miss Fotogenia",
+        "credit": "",
+        "width": 3072,
+        "height": 3749,
+        "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoQABQAPulep00pJSOiMAgBIB0JZQAAUqpUx3EtwIpcl7QAAP7nPptVd+unwDZYar18YNDQoinfGripV1qnvR61EqAPGBVe+BVz7NJbIHHduA/zXR6r0KzoAgluYksAAAA="
+      },
+      {
+        "id": "certificat-miss-authentic",
+        "category": "palmares",
+        "src": "/images/gallery/certificat-miss-authentic-800.jpg",
+        "srcSet": "/images/gallery/certificat-miss-authentic-400.jpg 400w, /images/gallery/certificat-miss-authentic-800.jpg 800w",
+        "webpSet": "/images/gallery/certificat-miss-authentic-400.webp 400w, /images/gallery/certificat-miss-authentic-800.webp 800w, /images/gallery/certificat-miss-authentic-1400.webp 1400w",
+        "alt": "Certificatul Miss Authentic România, locul I, alături de coroană",
+        "caption": "Miss Authentic România, locul I",
+        "credit": "",
+        "width": 1170,
+        "height": 1505,
+        "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQABUAPulgqE2pJaOiMAgBIB0JQAAKmC1J7dHcXmdMh9UYAP7w37IaAYkTDEiPhNWarEkau3jX5g6h9+MOtvyHTXLWyi5g/bBLdB7Yd4m8xH6na/n0kv3dAfyeKE42lWZ7/iY0ryo2pe4+qEvM3RgFDCTZdX4WbTgAAA=="
+      },
+      {
+        "id": "esarfa-miss-peace-scara",
+        "category": "palmares",
+        "src": "/images/gallery/esarfa-miss-peace-scara-800.jpg",
+        "srcSet": "/images/gallery/esarfa-miss-peace-scara-400.jpg 400w, /images/gallery/esarfa-miss-peace-scara-800.jpg 800w",
+        "webpSet": "/images/gallery/esarfa-miss-peace-scara-400.webp 400w, /images/gallery/esarfa-miss-peace-scara-800.webp 800w, /images/gallery/esarfa-miss-peace-scara-1400.webp 1400w",
+        "alt": "Ținută de gală cu eșarfa Miss Peace România",
+        "caption": "Cu eșarfa Miss Peace România",
+        "credit": "",
+        "width": 3722,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBACdASoQABYAPuleqE0pJSOiMAgBIB0JYwCdAywTngpe7ojui5SI5Sj1hgEEAAD96aY0L2J7O8Pr3xdSK0Q9MQ08S3UICF2XhQZYlNwXzRkOgkNxG9U89wFmtmrsjOatrpyNIm38TaLEhVyxXh1QvTRXWPObs9qaPMl8F7r0s7LKDYkV65q9/mbtNpKGdTzc4nRqc8McAAAA"
+      },
+      {
+        "id": "portret-difuzat-tv",
+        "category": "tv",
+        "src": "/images/gallery/portret-difuzat-tv-800.jpg",
+        "srcSet": "/images/gallery/portret-difuzat-tv-400.jpg 400w, /images/gallery/portret-difuzat-tv-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-difuzat-tv-400.webp 400w, /images/gallery/portret-difuzat-tv-800.webp 800w, /images/gallery/portret-difuzat-tv-1400.webp 1400w",
+        "alt": "Portret cu coroană, difuzat într-o emisiune de televiziune",
+        "caption": "Difuzat la televiziune",
+        "credit": "",
+        "width": 4773,
+        "height": 3503,
+        "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAwAAwBWJQBOgMXDpgBv1+QAAP7tIWKDkkvRLmw6Kqi7+ovplnMph08pH+0F9oG+wAOJf9lx2UzXimVchSY9E+N/2zK65yOl1uh6f/gbqe1uPwf3rR3UP0jztsAA"
+      },
+      {
+        "id": "reportaj-diamantul-modei",
+        "category": "tv",
+        "src": "/images/gallery/reportaj-diamantul-modei-800.jpg",
+        "srcSet": "/images/gallery/reportaj-diamantul-modei-400.jpg 400w, /images/gallery/reportaj-diamantul-modei-800.jpg 800w",
+        "webpSet": "/images/gallery/reportaj-diamantul-modei-400.webp 400w, /images/gallery/reportaj-diamantul-modei-800.webp 800w",
+        "alt": "Reportaj TV despre titlul de Diamantul modei din Europa de Est",
+        "caption": "Reportaj TV",
+        "credit": "",
+        "width": 1152,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoQABwAPulgqE0pJaOiMAgBIB0JbACdACHER2bRYmXBjMAA/o5gYJsXS3Apt3/+3BfnBY+EcT00qZXjN+bvIDZMIWav2x6BEK5vElV1yIaMpes+Ac5V4PmGKO3vrV2BNvEzIDjS7/1H6N/x2kohAwGj8CspuZaZm0BAlFRTl78rW4TGoUWcrkAA"
+      },
+      {
+        "id": "portret-fundite-roz",
+        "category": "portrete",
+        "src": "/images/gallery/portret-fundite-roz-800.jpg",
+        "srcSet": "/images/gallery/portret-fundite-roz-400.jpg 400w, /images/gallery/portret-fundite-roz-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-fundite-roz-400.webp 400w, /images/gallery/portret-fundite-roz-800.webp 800w, /images/gallery/portret-fundite-roz-1400.webp 1400w",
+        "alt": "Portret în sacou roz, cu fundițe de satin în păr",
+        "caption": "Portret în roz",
+        "credit": "",
+        "width": 2268,
+        "height": 4032,
+        "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBACdASoQABwAPulgqE0pJaOiMAgBIB0JYgCdMoAltBQKeiiNDndUOk8AAOHAWgshk+LlLc33Kzko7grN0OqkRrD1iPW543zhfFc87Wog48PiExP8i+daALcD/1VrR1GArtIQ6zdQWy7htrghrhziDxJyPGJHca6Q6YsASRf5b9u109s3KaeN/UX7apCzrMElbtE7I5vkkL4VZK6rqa1B+9G+mt+IjbsjPDiNjCGkQBu7JYuAbdNPwAAAAA=="
+      },
+      {
+        "id": "portret-fundite-detaliu",
+        "category": "portrete",
+        "src": "/images/gallery/portret-fundite-detaliu-800.jpg",
+        "srcSet": "/images/gallery/portret-fundite-detaliu-400.jpg 400w, /images/gallery/portret-fundite-detaliu-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-fundite-detaliu-400.webp 400w, /images/gallery/portret-fundite-detaliu-800.webp 800w, /images/gallery/portret-fundite-detaliu-1400.webp 1400w",
+        "alt": "Portret apropiat, cu fundițe de satin prinse în păr",
+        "caption": "Detaliu de coafură",
+        "credit": "",
+        "width": 1536,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoQABUAPuleqE0pJSOiMAgBIB0JYgCdABTF4rP4F24aocAA+UrnpTe6EPv1/pMFlUh3PC2vAOYGolk+Dk6/d9T2/P/0X3QRkLuUy1y19ro0+C9uWbsrr8o8XseoP3S/Fn8pyiMgg5QRUPPt8tdbcVF9nYvO/anFOASi0pViF2qIpD0ckLH8G4vpjj6hAAAA"
+      },
+      {
+        "id": "portret-rochie-albastra",
+        "category": "portrete",
+        "src": "/images/gallery/portret-rochie-albastra-800.jpg",
+        "srcSet": "/images/gallery/portret-rochie-albastra-400.jpg 400w, /images/gallery/portret-rochie-albastra-800.jpg 800w",
+        "webpSet": "/images/gallery/portret-rochie-albastra-400.webp 400w, /images/gallery/portret-rochie-albastra-800.webp 800w",
+        "alt": "Portret din profil, într-o rochie brodată cu mărgele albastre",
+        "caption": "Portret din profil",
+        "credit": "",
+        "width": 1335,
+        "height": 1668,
+        "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoQABQAPuleqE0pJSOiMAgBIB0JQBOmUGYwCCnkHlYEcEFIPuIAAP7w31qZKb2B9hqNArOyry/HqPD8S0RPrrb5AcJL2r30SIYin7611nTqAgWzVi7NS2gdZMBGq7/fynpGQPIp7vsV3uX7bPZBDnNYUOYDmp3BYiyOw7LQIqCgrBPZ2d+Zj5BX7Vm2LAAA"
+      },
+      {
+        "id": "balet-poanta",
+        "category": "editorial",
+        "src": "/images/gallery/balet-poanta-800.jpg",
+        "srcSet": "/images/gallery/balet-poanta-400.jpg 400w, /images/gallery/balet-poanta-800.jpg 800w",
+        "webpSet": "/images/gallery/balet-poanta-400.webp 400w, /images/gallery/balet-poanta-800.webp 800w, /images/gallery/balet-poanta-1400.webp 1400w",
+        "alt": "În ținută de balet, pe vârfuri, într-un cadru de studio",
+        "caption": "Balet, în studio",
+        "credit": "",
+        "width": 2494,
+        "height": 3121,
+        "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQAwCdASoQABQAPuleqE0pJSQiMAgBIB0JZQAAYYXWBOYybPfl2sAA/owBBfndClmF4SprdEJ8Uxl5S6VM0+W2j/UlAg+wiG/fWawPbF+dc6byTc2zMMt+6txydN0UMqEGmsxMdbVieSKT8vg1iwgA"
+      },
+      {
+        "id": "revista-interviu",
+        "category": "editorial",
+        "src": "/images/gallery/revista-interviu-800.jpg",
+        "srcSet": "/images/gallery/revista-interviu-400.jpg 400w, /images/gallery/revista-interviu-800.jpg 800w",
+        "webpSet": "/images/gallery/revista-interviu-400.webp 400w, /images/gallery/revista-interviu-800.webp 800w, /images/gallery/revista-interviu-1400.webp 1400w",
+        "alt": "Interviu publicat într-o revistă tipărită",
+        "caption": "Interviu în revistă",
+        "credit": "",
+        "width": 3840,
+        "height": 5120,
+        "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBACdASoQABUAPulep00pJSOiMAgBIB0JaACdH8AguRI9c82DOMPRQADiMm6W+w4CzHIMzfKF3mKUUDI0/QGSOC69IO9rkyuvxthudDGyY0gV4wnp1AH4viz9hGMHIr725JiBALa2lYr0XNGJRG9OljCp+G7+4N0oq/9jnFbCFS5st9XvdO6SjPpP5j/V4iMfXBBSz41f90H+GvtRj7oT+V0T0etb2DZ03I28EYvd0uc7Ga1q5JGgAAA="
+      },
+      {
+        "id": "rochie-alba-eveniment",
+        "category": "evenimente",
+        "src": "/images/gallery/rochie-alba-eveniment-800.jpg",
+        "srcSet": "/images/gallery/rochie-alba-eveniment-400.jpg 400w, /images/gallery/rochie-alba-eveniment-800.jpg 800w",
+        "webpSet": "/images/gallery/rochie-alba-eveniment-400.webp 400w, /images/gallery/rochie-alba-eveniment-800.webp 800w",
+        "alt": "Rochie albă de bal, la un eveniment de gală",
+        "caption": "Eveniment de gală",
+        "credit": "",
+        "width": 1302,
+        "height": 2048,
+        "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoQABkAPuleqE0pJSOiMAgBIB0JQBOmUAS3QwNEn6y3aCfe4SQA/sNuJ+MIfFogkBa5jBtM6VQUJsd2Pja5nOqdeqUEGDyg6x34lXUKmXrVq/u2lbD190QbjT7EKA17K3aS7wvMSfX12X77iNeY84+nz0j4AA=="
+      },
+      {
+        "id": "tort-aniversar",
+        "category": "evenimente",
+        "src": "/images/gallery/tort-aniversar-800.jpg",
+        "srcSet": "/images/gallery/tort-aniversar-400.jpg 400w, /images/gallery/tort-aniversar-800.jpg 800w",
+        "webpSet": "/images/gallery/tort-aniversar-400.webp 400w, /images/gallery/tort-aniversar-800.webp 800w",
+        "alt": "Tort aniversar cu mesajul „Happy birthday Miss Alina the TV doll”",
+        "caption": "Aniversare",
+        "credit": "",
+        "width": 1440,
+        "height": 1760,
+        "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBACdASoQABQAPuleqE0pJSOiMAgBIB0JbAB3ADKGGU0RN43ST0A9h2NAAP7SpsJqqqv/JWekMaYsFZgcySdfumpbK5qrBvpFq2VwgiSl3c1REiI/eJEShUotqTIGuHknADv8SM2qqRCSBttHQAhYswYN+KjozfQaQwN35m7wbQYd1//eznKrBhzXper8AAA="
+      },
+      {
+        "id": "presa-turcia-articol",
+        "category": "editorial",
+        "src": "/images/gallery/presa-turcia-articol-800.jpg",
+        "srcSet": "/images/gallery/presa-turcia-articol-400.jpg 400w, /images/gallery/presa-turcia-articol-800.jpg 800w",
+        "webpSet": "/images/gallery/presa-turcia-articol-400.webp 400w, /images/gallery/presa-turcia-articol-800.webp 800w",
+        "alt": "Articol despre Alina Niculescu în publicația turcă Manșet Marmara",
+        "caption": "Manșet Marmara, articol",
+        "credit": "",
+        "width": 1290,
+        "height": 1589,
+        "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwAwCdASoQABQAPulep00pJSOiMAgBIB0JZQC/OB09yCc0Zy9COAD+7emTKX2guoiPtU61W35ZmR9D4uMLYkXzRz+FHgZbTzc1AB7Ue9+tmchQk7ziIxiDN9vPJkMjdoheeOKf6o33Q/41kaz+jn13qoFLF6vQEzpttDMNF60FjoiaRAAAAA=="
+      },
+      {
+        "id": "presa-turcia-titlu",
+        "category": "editorial",
+        "src": "/images/gallery/presa-turcia-titlu-800.jpg",
+        "srcSet": "/images/gallery/presa-turcia-titlu-400.jpg 400w, /images/gallery/presa-turcia-titlu-800.jpg 800w",
+        "webpSet": "/images/gallery/presa-turcia-titlu-400.webp 400w, /images/gallery/presa-turcia-titlu-800.webp 800w",
+        "alt": "Titlul articolului din Manșet Marmara despre Alina Niculescu",
+        "caption": "Manșet Marmara, iunie 2025",
+        "credit": "",
+        "width": 1057,
+        "height": 1771,
+        "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoQABsAPulgqE0pJaQiMAgBIB0JYgCdBHTYYHFFYHlm6dtspK1Tb9CN3SAA/vhG2JXruRp6eUyTKPG7RezcdiTb9T9mWNHB2h/Cb8/vLJlWcOl3lvtj1RWaxOfirMGXgyKAiYw4FX6UaqFpbCL8X4dOvyx+3/CL9J9KlgIlIKIZK4e+0l89uCHAsUjV8CwqpfOqhZpaiXKg8/jautap8PxWP9zPl7+gmfIZqC/+j9Kq3PZeor1q2LLwAAA="
+      },
+      {
+        "id": "oro-supremo-portret",
+        "category": "palmares",
+        "src": "/images/gallery/oro-supremo-portret-800.jpg",
+        "srcSet": "/images/gallery/oro-supremo-portret-400.jpg 400w, /images/gallery/oro-supremo-portret-800.jpg 800w",
+        "webpSet": "/images/gallery/oro-supremo-portret-400.webp 400w, /images/gallery/oro-supremo-portret-800.webp 800w",
+        "alt": "Portret asociat titlului Oro Supremo di Fotogenia",
+        "caption": "Oro Supremo di Fotogenia",
+        "credit": "",
+        "width": 900,
+        "height": 1600,
+        "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoQABwAPulgqE0pJaOiMAgBIB0JYgCdMoC4AKDYUCnoojNasihiwGAA4bsz4RzELymY5WftsHcFZviOQCNY/gkkonYtCgATWTIRaHSqzkj5tIGOz2OHpe7C/4GSMIRISNSEHhnQ5TrDXMhEHkAv/aNEmGCvES35p/CsOdk6MnMW5FI58LeUjZtEMg0sCuJLVMjPjN4Bc4J4vtbfVbqutX0tUq21MrRlnEbGENIgDd2SxcA270vuAAAA"
+      },
+      {
+        "id": "miss-telegenica-esarfa",
+        "category": "palmares",
+        "src": "/images/gallery/miss-telegenica-esarfa-800.jpg",
+        "srcSet": "/images/gallery/miss-telegenica-esarfa-400.jpg 400w, /images/gallery/miss-telegenica-esarfa-800.jpg 800w",
+        "webpSet": "/images/gallery/miss-telegenica-esarfa-400.webp 400w, /images/gallery/miss-telegenica-esarfa-800.webp 800w",
+        "alt": "Eșarfa Miss Telegenica, primită în 2021",
+        "caption": "Miss Telegenica 2021",
+        "credit": "",
+        "width": 1289,
+        "height": 2036,
+        "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoQABkAPulgqE0pJaOiMAgBIB0JZAATwAFZatz8IOpUXOmq34EgAP1OhC9Lvx3incvumBcu/+tJk7MLNnIMKh6DHyC240UGyXl/TXBBcsSVN2ajY1FTc76UJwtUFeeRje5PBZGWeOyDF/RXeZedURPYMV8Pxb0Ps5kbyMx9l6u5cJS61znW28gjZk6wf+pu9P90KfHp24zC/L/EgAA="
+      },
+      {
+        "id": "colaj-david-nihan",
+        "category": "david-nihan",
+        "src": "/images/story/david-nihan-1000.jpg",
+        "srcSet": "/images/story/david-nihan-640.jpg 640w, /images/story/david-nihan-1000.jpg 1000w, /images/story/david-nihan-1290.jpg 1290w",
+        "webpSet": "/images/story/david-nihan-640.webp 640w, /images/story/david-nihan-1000.webp 1000w, /images/story/david-nihan-1290.webp 1290w",
+        "alt": "Alina Niculescu și David, într-un colaj realizat de comunitatea online",
+        "caption": "Colaj realizat de comunitatea online, 2026",
+        "credit": "",
+        "width": 1290,
+        "height": 1928,
+        "lqip": ""
+      }
+    ]
+  },
+  "credit": {
+    "prefix": "Crafted by",
+    "name": "SBN Agency",
+    "url": "https://sbnagency.ro",
+    "instagram": "https://www.instagram.com/steriebogdanai/"
+  },
+  "turkishPress": {
+    "label": "Presa din Turcia",
+    "title": "Cum a fost relatată povestea în Turcia",
+    "images": [
+      "presa-turcia-titlu",
+      "presa-turcia-articol"
+    ]
+  }
+}

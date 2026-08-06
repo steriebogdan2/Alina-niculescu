@@ -1,0 +1,19 @@
+{
+  "menu": "Menu",
+  "closeMenu": "Close menu",
+  "skipToContent": "Skip to content",
+  "readMore": "Read",
+  "allRights": "All rights reserved.",
+  "privacy": "Privacy policy",
+  "backHome": "Back to home",
+  "notFound": "This page does not exist.",
+  "send": "Send message",
+  "sending": "Sending…",
+  "sent": "Your message was sent. Thank you!",
+  "sendError": "The message could not be sent. Please write by email.",
+  "notConfigured": "The form is not connected to an email service yet.",
+  "lightboxOpen": "Open image",
+  "lightboxClose": "Close image",
+  "lightboxPrev": "Previous image",
+  "lightboxNext": "Next image"
+}

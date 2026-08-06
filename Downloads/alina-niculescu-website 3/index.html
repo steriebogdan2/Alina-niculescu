@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/icons/site.webmanifest" />
+    <meta name="theme-color" content="#F7F0F3" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,200..400;1,9..144,200..400&family=Archivo:wght@300;400;500&family=Space+Mono:wght@400&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- portretul de copertă este elementul cel mai mare de pe prima pagină -->
+    <link
+      rel="preload"
+      as="image"
+      href="/images/portret-lg.jpg"
+      imagesrcset="/images/portret-sm.webp 560w, /images/portret-md.webp 900w, /images/portret-lg.webp 1179w"
+      imagesizes="(max-width: 760px) 72vw, (max-width: 980px) 42vw, 24vw"
+      fetchpriority="high"
+    />
+
+    <title>Alexandra-Alina Niculescu</title>
+    <meta
+      name="description"
+      content="Alexandra-Alina Niculescu, Miss Peace Europe 2026. Balerină, scriitoare și absolventă de Drept."
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
